@@ -1,12 +1,39 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- <strong>J. Lian</strong>, W. Zhou, J. Zhang, Z. Mei, Y. Gao, G. Hui# (2023). Tomato Storage Quality Predicting Method Based on Portable Electronic Nose System Combined with WOA‑SVM Model. <strong>Journal of Food Measurement and Characterization</strong>. [[Paper]](https://doi.org/10.1007/s11694-023-01865-0)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>J. Lian</strong>, J. Zhang, Q. Liu, R. Zhu, J. Ning, S. Xiong, G. Hui#, Y. Gao, X. Lou (2023). Visualized Pattern Recognition Optimization for Apple Mechanical Damage by Laser Relaxation Spectroscopy. <strong>International Journal of Food Properties</strong>. [[Paper]](https://doi.org/10.1080/10942912.2023.2221404)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>J. Lian</strong>, G. Hui# (2024). Human Evolutionary Optimization Algorithm. <strong>Expert Systems with Applications</strong>. [[Paper]](https://doi.org/10.1016/j.eswa.2023.122638) [[Code]](https://github.com/junbolian/HEOA)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>J. Lian</strong>, G. Hui, L. Ma, T. Zhu, X. Wu, A.A. Heidari, Y. Chen, H. Chen# (2024). Parrot Optimizer: Algorithm and Applications to Medical Problems. <strong>Computers in Biology and Medicine</strong>. [[Paper]](https://doi.org/10.1016/j.compbiomed.2024.108064) [[Code]](https://github.com/junbolian/PO)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- <strong>J. Lian</strong>, T. Zhu, L. Ma, X. Wu, A.A. Heidari, Y. Chen, H. Chen#, G. Hui# (2024). The Educational Competition Optimizer. <strong>International Journal of Systems Science</strong>. [[Paper]](https://doi.org/10.1080/00207721.2024.2367079) [[Code]](https://github.com/junbolian/ECO)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>J.J. Lian#</strong> (2024). Support Vector Boosting Machine (SVBM): Enhancing Classification Performance with AdaBoost and Residual Connections. <strong>arXiv Preprint</strong>. [[Paper]](https://arxiv.org/abs/2410.06957) [[Code]](https://github.com/junbolian/SVBM)
+
+- X. Tang*, <strong>J.J. Lian*</strong>#, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. <strong>Submission to Artificial Intelligence Review</strong> (IF 2023=12). [[Code]](https://github.com/junbolian/IECO)
+
+- <strong>J.J. Lian</strong>, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen# (2025). Trend-Aware Mechanism: A Novel Update Strategy for Improved Metaheuristic Algorithm Performance. <strong>In preparation for submission</strong>. [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
+
+- A surface damage detection system and method for the white pear  
+  Patent Application No.: CN202211264437.7 / Patent Publication No.: CN115656103A
+
+- A damage detection system and method for the white pear  
+  Patent Application No.: CN202211264436.2 / Patent Publication No.: CN115598134A
+
+- A detecting device and a method for Angelica tablets  
+  Patent Application No.: CN202310446979.4 / Patent Publication No.: CN116465862A
+
+- A detecting method for Angelica tablets  
+  Patent Application No.: CN202310435925.8 / Patent Publication No.: CN116448722A
+
+- A laboratory safety monitoring method based on sensor array  
+  Patent Application No.: CN202210861807.9 / Patent Publication No.: CN115239130A
+
+- An equipment and method for identifying the origin of prickly ash  
+  Patent Application No.: CN202311647786.1 / Patent Publication No.: CN117849289A
+
+- A method for identifying the origin of prickly ash  
+  Patent Application No.: CN202311647788.0 / Patent Publication No.: CN117633595A
+
+
 
