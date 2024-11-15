@@ -1,3 +1,5 @@
+### Papers
+
 - <strong>J. Lian</strong>, W. Zhou, J. Zhang, Z. Mei, Y. Gao, G. Hui# (2023). Tomato Storage Quality Predicting Method Based on Portable Electronic Nose System Combined with WOA‑SVM Model. <strong>Journal of Food Measurement and Characterization</strong>. [[Paper]](https://doi.org/10.1007/s11694-023-01865-0)
 
 - <strong>J. Lian</strong>, J. Zhang, Q. Liu, R. Zhu, J. Ning, S. Xiong, G. Hui#, Y. Gao, X. Lou (2023). Visualized Pattern Recognition Optimization for Apple Mechanical Damage by Laser Relaxation Spectroscopy. <strong>International Journal of Food Properties</strong>. [[Paper]](https://doi.org/10.1080/10942912.2023.2221404)
@@ -13,6 +15,9 @@
 - X. Tang*, <strong>J.J. Lian*</strong>#, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. <strong>Submission to Artificial Intelligence Review</strong> (IF 2023=12). [[Code]](https://github.com/junbolian/IECO)
 
 - <strong>J.J. Lian</strong>, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen# (2025). Trend-Aware Mechanism: A Novel Update Strategy for Improved Metaheuristic Algorithm Performance. <strong>In preparation for submission</strong>. [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
+
+
+### Patents
 
 - A surface damage detection system and method for the white pear  
   Patent Application No.: CN202211264437.7 / Patent Publication No.: CN115656103A
