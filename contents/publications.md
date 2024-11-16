@@ -1,5 +1,7 @@
 ### Papers [Read more](https://scholar.google.com/citations?hl=zh-CN&user=swfyyjkAAAAJ)
 
+**(* stands for equal contribution, # stands for Corresponding Author)**
+
 - <strong>J. Lian</strong>, W. Zhou, J. Zhang, Z. Mei, Y. Gao, G. Hui# (2023). Tomato Storage Quality Predicting Method Based on Portable Electronic Nose System Combined with WOA‑SVM Model. <strong>Journal of Food Measurement and Characterization</strong>. [[Paper]](https://doi.org/10.1007/s11694-023-01865-0)
 
 - <strong>J. Lian</strong>, J. Zhang, Q. Liu, R. Zhu, J. Ning, S. Xiong, G. Hui#, Y. Gao, X. Lou (2023). Visualized Pattern Recognition Optimization for Apple Mechanical Damage by Laser Relaxation Spectroscopy. <strong>International Journal of Food Properties</strong>. [[Paper]](https://doi.org/10.1080/10942912.2023.2221404)
