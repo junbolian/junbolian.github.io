@@ -1,4 +1,4 @@
-### Papers
+### Papers [Read more](https://scholar.google.com/citations?hl=zh-CN&user=swfyyjkAAAAJ)
 
 - <strong>J. Lian</strong>, W. Zhou, J. Zhang, Z. Mei, Y. Gao, G. Hui# (2023). Tomato Storage Quality Predicting Method Based on Portable Electronic Nose System Combined with WOA‑SVM Model. <strong>Journal of Food Measurement and Characterization</strong>. [[Paper]](https://doi.org/10.1007/s11694-023-01865-0)
 
@@ -17,7 +17,7 @@
 - <strong>J.J. Lian</strong>, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen# (2025). Trend-Aware Mechanism: A Novel Update Strategy for Improved Metaheuristic Algorithm Performance. <strong>In preparation for submission</strong>. [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
 
 
-### Patents
+### Patents [Read more](https://patents.google.com/?inventor=%E8%BF%9E%E4%BF%8A%E5%8D%9A)
 
 - A surface damage detection system and method for the white pear  
   Patent Application No.: CN202211264437.7 / Patent Publication No.: CN115656103A
@@ -39,6 +39,3 @@
 
 - A method for identifying the origin of prickly ash  
   Patent Application No.: CN202311647788.0 / Patent Publication No.: CN117633595A
-
-
-
