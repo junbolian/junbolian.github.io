@@ -8,7 +8,11 @@ Junbo Lian is currently a researcher at the School of Mathematics and Computer S
 junbolian[at]qq.com
 
 #### Education
-B.S., Data Science and Big Data Technology, Zhejiang A&F University, 2021—2025 (expected).
+B.S., Data Science and Big Data Technology, Zhejiang A&F University, 2021—2025.
+
+#### Offer
+- **Columbia University
+- **Washington University in St. Louis
 
 #### Research Interests
 Mathematical Modeling, Evolutionary Computation, Generative AI, Swarm Optimization.
