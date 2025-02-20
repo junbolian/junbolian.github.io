@@ -42,3 +42,17 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - A method for identifying the origin of prickly ash  
   Patent Application No.: CN202311647788.0 / Patent Publication No.: CN117633595A
+
+### Reviewer for Scientific Journals
+
+- <strong>Scientific Report</strong>
+
+- <strong>Cluster Computing</strong>
+
+- <strong>Journal of Supercomputing</strong>
+
+- <strong>The Journal of Computation Design and Engineering</strong>
+
+- <strong>Journal of Big Data</strong>
+
+- <strong>Earth Science Informatics</strong>
