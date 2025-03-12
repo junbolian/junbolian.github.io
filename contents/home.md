@@ -11,8 +11,12 @@ junbolian[at]qq.com
 B.S., Data Science and Big Data Technology, Zhejiang A&F University, 2021—2025.
 
 #### Offer
+- Northwestern University
 - Columbia University
 - Washington University in St. Louis
+- New York University
+- Cornell University
+- Johns Hopkins University
 
 #### Research Interests
 Mathematical Modeling, Evolutionary Computation, Generative AI, Swarm Optimization.
