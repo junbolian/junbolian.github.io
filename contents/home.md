@@ -8,7 +8,8 @@ Junbo Lian is currently a researcher at the School of Mathematics and Computer S
 junbolian[at]qq.com
 
 #### Education
-B.S., Data Science and Big Data Technology, Zhejiang A&F University, 2021—2025.
+B.S., Data Science and Big Data Technology, Zhejiang A&F University, 2021-2025.
+M.S., Machine Learning and Data Science (MLDS), Northwestern University, 2025-2026 (Expected).
 
 #### Offer
 - Northwestern University
