@@ -16,11 +16,11 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - X. Tang*, <strong>J.J. Lian*#</strong>, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. <strong>Submission to Artificial Intelligence Review</strong> (IF 2023=12). [[Code]](https://github.com/junbolian/IECO)
 
-- <strong>J.J. Lian</strong>, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen# (2025). Trend-Aware Mechanism: A Update Strategy Improved Metaheuristic Algorithms. <strong>Submission to Applied Soft Computing</strong> (IF 2023=8.7). [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
+- <strong>J.J. Lian</strong>, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen# (2025). Trend-Aware Mechanism for Metaheuristic Algorithms. <strong>Applied Soft Computing</strong> (IF 2023=8.7). [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
 
 - <strong>J.J. Lian#</strong> (2024). Twisted Convolutional Networks: A Approach for Feature Combination in Machine Learning. <strong>arXiv Preprint</strong>. [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
 
-Zhong, R., Wang, Z., Zhang, Y., <strong>Lian, J. J.</strong>, Yu, J., & Chen, H#. (2025). Integrating Competitive Framework into Differential Evolution: Comprehensive performance analysis and application in brain tumor detection. <strong>Applied Soft Computing</strong>. [[Paper]](https://doi.org/10.1016/j.asoc.2025.112995)
+- Zhong, R., Wang, Z., Zhang, Y., <strong>Lian, J. J.</strong>, Yu, J., & Chen, H#. (2025). Integrating Competitive Framework into Differential Evolution: Comprehensive performance analysis and application in brain tumor detection. <strong>Applied Soft Computing</strong>. [[Paper]](https://doi.org/10.1016/j.asoc.2025.112995)
 
 ### Patents [Read more](https://patents.google.com/?inventor=%E8%BF%9E%E4%BF%8A%E5%8D%9A)
 
