@@ -10,6 +10,7 @@ Junbo Lian is currently pursuing the prestigious Master's in Machine Learning an
 
 #### Email
 junbolian[at]qq.com
+
 jacoblian[at]u.northwestern.edu
 
 #### Education

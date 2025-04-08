@@ -24,26 +24,32 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 ### Patents [Read more](https://patents.google.com/?inventor=%E8%BF%9E%E4%BF%8A%E5%8D%9A)
 
-- A surface damage detection system and method for the white pear  
+- **A surface damage detection system and method for the white pear**  
   Patent Application No.: CN202211264437.7 / Patent Publication No.: CN115656103A
 
-- A damage detection system and method for the white pear  
+- **A damage detection system and method for the white pear**  
   Patent Application No.: CN202211264436.2 / Patent Publication No.: CN115598134A
 
-- A detecting device and a method for Angelica tablets  
+- **A detecting device and a method for Angelica tablets**  
   Patent Application No.: CN202310446979.4 / Patent Publication No.: CN116465862A
 
-- A detecting method for Angelica tablets  
+- **A detecting method for Angelica tablets**  
   Patent Application No.: CN202310435925.8 / Patent Publication No.: CN116448722A
 
-- A laboratory safety monitoring method based on sensor array  
+- **A laboratory safety monitoring method based on sensor array**  
   Patent Application No.: CN202210861807.9 / Patent Publication No.: CN115239130A
 
-- An equipment and method for identifying the origin of prickly ash  
+- **An equipment and method for identifying the origin of prickly ash**  
   Patent Application No.: CN202311647786.1 / Patent Publication No.: CN117849289A
 
-- A method for identifying the origin of prickly ash  
+- **A method for identifying the origin of prickly ash**  
   Patent Application No.: CN202311647788.0 / Patent Publication No.: CN117633595A
+
+- **A method for detecting mold in Atractylodes macrocephala**  
+  Patent Application No.: CN202410068257.4 / Patent Publication No.: CN117990856A
+
+- **A device and a method for detecting mold in Atractylodes macrocephala**  
+  Patent Application No.: CN202410071756.9 / Patent Publication No.: CN117990857A
 
 ### Reviewer for Scientific Journals
 
