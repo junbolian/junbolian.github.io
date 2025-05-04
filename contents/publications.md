@@ -20,7 +20,7 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - <strong>J.J. Lian#</strong> (2025). Generative Foundation Models: A Comprehensive Beginner's Handbook. <strong>arXiv Preprint</strong>. [[Paper]](https://arxiv.org/pdf/2412.00238)
 
-Xiao, W., Ouyang, K., <strong>Lian, J. J.</strong>, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2025). Newton Downhill Optimizer for Global Optimization. <strong>Scientific Report</strong> (Under Review). 
+- Xiao, W., Ouyang, K., <strong>Lian, J. J.</strong>, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2025). Newton Downhill Optimizer for Global Optimization. <strong>Scientific Report</strong> (Under Review). 
 
 - X. Tang*, <strong>J.J. Lian*#</strong>, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. <strong>Journal of Big Data</strong> (Under Review). [[Code]](https://github.com/junbolian/IECO)
 
