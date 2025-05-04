@@ -12,15 +12,22 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - <strong>J. Lian</strong>, T. Zhu, L. Ma, X. Wu, A.A. Heidari, Y. Chen, H. Chen#, G. Hui# (2024). The Educational Competition Optimizer. <strong>International Journal of Systems Science</strong>. [[Paper]](https://doi.org/10.1080/00207721.2024.2367079) [[Code]](https://github.com/junbolian/ECO)
 
-- <strong>J.J. Lian#</strong> (2024). Support Vector Boosting Machine (SVBM): Enhancing Classification Performance with AdaBoost and Residual Connections. <strong>arXiv Preprint</strong>. [[Paper]](https://arxiv.org/abs/2410.06957) [[Code]](https://github.com/junbolian/SVBM)
-
-- X. Tang*, <strong>J.J. Lian*#</strong>, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. <strong>Submission to Artificial Intelligence Review</strong> (IF 2023=12). [[Code]](https://github.com/junbolian/IECO)
-
-- <strong>J.J. Lian</strong>, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen# (2025). Trend-Aware Mechanism for Metaheuristic Algorithms. <strong>Applied Soft Computing</strong> (IF 2023=8.7). [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
-
-- <strong>J.J. Lian#</strong> (2024). Twisted Convolutional Networks: A Approach for Feature Combination in Machine Learning. <strong>arXiv Preprint</strong>. [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
+- <strong>J. Lian#</strong>, Wu, P., Han, W., Xie, Y., Zheng, Y., Xu, Y., ... & Hui, G. (2025). Discrimination of Chinese prickly ash origin place using electronic nose system and feature extraction with support vector boosting machine. <strong>Cogent Food & Agriculture</strong>. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/23311932.2025.2464939) [[Code]](https://github.com/junbolian/SVBM)
 
 - Zhong, R., Wang, Z., Zhang, Y., <strong>Lian, J. J.</strong>, Yu, J., & Chen, H#. (2025). Integrating Competitive Framework into Differential Evolution: Comprehensive performance analysis and application in brain tumor detection. <strong>Applied Soft Computing</strong>. [[Paper]](https://doi.org/10.1016/j.asoc.2025.112995)
+
+- Luo, S., Zhang, Y., Zhang, Z., Guo, B., <strong>Lian, J. J.</strong>, Jiang, H., Zou, S., & Wang, W. (2025). EPDD-YOLO: An Efficient Benchmark for Pavement Damage Detection Based on Mamba-YOLO. <strong>Measurement</strong>. [[Paper]](https://doi.org/10.1016/j.measurement.2025.117638)
+
+- <strong>J.J. Lian#</strong> (2025). Generative Foundation Models: A Comprehensive Beginner's Handbook. <strong>arXiv Preprint</strong>. [[Paper]](https://arxiv.org/pdf/2412.00238)
+
+Xiao, W., Ouyang, K., <strong>Lian, J. J.</strong>, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2025). Newton Downhill Optimizer for Global Optimization. <strong>Scientific Report</strong> (Under Review). 
+
+- X. Tang*, <strong>J.J. Lian*#</strong>, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. <strong>Journal of Big Data</strong> (Under Review). [[Code]](https://github.com/junbolian/IECO)
+
+- <strong>J.J. Lian</strong>, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen# (2025). Trend-Aware Mechanism for Metaheuristic Algorithms. <strong>Applied Soft Computing</strong> (Under Review). [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
+
+- <strong>J.J. Lian#</strong> (2025). Twisted Convolutional Networks (TCNs): Enhancing Feature Interactions for Non-Spatial Data Classification. <strong>IEEE Transactions on Artificial Intelligence</strong> (Under Review). [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
+
 
 ### Patents [Read more](https://patents.google.com/?inventor=%E8%BF%9E%E4%BF%8A%E5%8D%9A)
 
