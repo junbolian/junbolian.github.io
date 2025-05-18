@@ -2,10 +2,12 @@
 - **National Scholarship** (Top 0.2% in China), 2024.
 - **Zhejiang A&F University Student Scholarship**, 2024.
 
-### Competitions
+### Competitions and Honors
 - **First Prize**, National Big Data Challenge Competition of College Students, 2022.
 - **Second Prize**, National Service Outsourcing Venture Competition, 2023.
+- **Outstanding Undergraduate Thesis**, Zhejiang A&F University, 2025
 - **Outstanding Advisor**, "Huashu Cup" International Mathematical Contest in Modeling, 2024.
+- **Gold Medal**, 19th "Challenge Cup" Extracurricular Academic Science and Technology Works Competition, Zhejiang Province, 2025.
 - **Top Prize**, "Donghu Cup" Extracurricular Academic Science and Technology Works Competition, Zhejiang A&F University, 2023/24.
 - **Academic Advisor**, United States (International) Collegiate Mathematical Contest in Modeling, 2023/24.
 - **Silver Medal**, 18th "Challenge Cup" Extracurricular Academic Science and Technology Works Competition, Zhejiang Province, 2023.
