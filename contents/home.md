@@ -6,7 +6,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junbo-Lian-2)
 
 
-Junbo Lian is currently pursuing the prestigious Master's in Machine Learning and Data Science (MLDS) at Northwestern University, USA, and is set to graduate in 2025 from Zhejiang A\&F University, majoring in Data Science and Big Data Technology. His undergraduate thesis was recognized as an *outstanding graduation thesis*. His research interests include Artificial Intelligence-Generated Content (AIGC), Computer Vision (CV), Evolutionary Computation, Operations Research, and Mathematical Modeling.
+**Junbo Lian** is currently pursuing the prestigious Master's in Machine Learning and Data Science (MLDS) at Northwestern University, USA, and is set to graduate in 2025 from Zhejiang A\&F University, majoring in Data Science and Big Data Technology. His undergraduate thesis was recognized as an *outstanding graduation thesis*. His research interests include Artificial Intelligence-Generated Content (AIGC), Computer Vision (CV), Evolutionary Computation, Operations Research, and Mathematical Modeling.
 
 He serves as a reviewer for internationally recognized journals, including *Scientific Reports*, *Computers in Biology and Medicine*, *Journal of Supercomputing*, *Journal of Computational Design and Engineering*, and *Journal of Big Data*. Junbo has published multiple papers in prominent journals such as *Expert Systems with Applications*, *Applied Soft Computing*, *Computers in Biology and Medicine*, and *International Journal of Systems Science*, with two papers recognized as *ESI Hot Papers*.
 
