@@ -58,6 +58,18 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 - **A device and a method for detecting mold in Atractylodes macrocephala**  
   Patent Application No.: CN202410071756.9 / Patent Publication No.: CN117990857A
 
+
+### Research Fund
+
+- **National College Students Innovation and Entrepreneurship Training**, 2023-2024, Completed.
+  **Grant No**: 202310341080X
+  **Topic:** Research on early mold detection method of Chinese herbal medicine based on algorithm optimization of multi-AI collaborative model
+
+- **College Student Research Programme of Zhejiang Province**, 2023-2024, Completed.
+  **Grant No**: 2023R412012
+  **Topic:** Construction of visualized AI technology system and its application in quality inspection of Chinese herbal medicines
+
+
 ### Reviewer for Scientific Journals
 
 - <strong>Scientific Report</strong>
@@ -74,13 +86,4 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - <strong>Earth Science Informatics</strong>
 
-### Research Fund
-
-- **National College Students Innovation and Entrepreneurship Training**, 2023-2024, Completed.
-  **Grant No**: 202310341080X
-  **Topic:** Research on early mold detection method of Chinese herbal medicine based on algorithm optimization of multi-AI collaborative model
-
-- **College Student Research Programme of Zhejiang Province**, 2023-2024, Completed.
-  **Grant No**: 2023R412012
-  **Topic:** Construction of visualized AI technology system and its application in quality inspection of Chinese herbal medicines
 
