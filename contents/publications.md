@@ -18,7 +18,7 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - Luo, S., Zhang, Y., Zhang, Z., Guo, B., <strong>Lian, J. J.</strong>, Jiang, H., Zou, S., & Wang, W. (2025). EPDD-YOLO: An Efficient Benchmark for Pavement Damage Detection Based on Mamba-YOLO. <strong>Measurement</strong>. [[Paper]](https://doi.org/10.1016/j.measurement.2025.117638)
 
-- <strong>J.J. Lian#</strong> (2025). Generative Foundation Models: A Comprehensive Beginner's Handbook. <strong>Amazon</strong>. [[Book]](https://dx.doi.org/10.2139/ssrn.5259947)
+- <strong>J.J. Lian#</strong> (2025). Generative Foundation Models: A Comprehensive Beginner's Handbook. <strong>Amazon</strong>. [[Book (Preprint)]](https://dx.doi.org/10.2139/ssrn.5259947)[[Book (Amazon)]](https://www.amazon.com/dp/B0F9FQ4JKH)
 
 - Xiao, W., Ouyang, K., <strong>Lian, J. J.</strong>, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2025). Newton Downhill Optimizer for Global Optimization. <strong>Scientific Report</strong> (Under Review). 
 
