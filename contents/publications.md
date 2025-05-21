@@ -62,12 +62,12 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 ### Research Fund
 
 - **National College Students Innovation and Entrepreneurship Training**, 2023-2024, Completed.<br>
-  **Grant No**: 202310341080X<br>  
-  **Topic:** Research on early mold detection method of Chinese herbal medicine based on algorithm optimization of multi-AI collaborative model<br>  
+  **Grant No**: 202310341080X<br>
+  **Topic:** Research on early mold detection method of Chinese herbal medicine based on algorithm optimization of multi-AI collaborative model<br>
 
-- **College Student Research Programme of Zhejiang Province**, 2023-2024, Completed.<br>  
-  **Grant No**: 2023R412012<br>  
-  **Topic:** Construction of visualized AI technology system and its application in quality inspection of Chinese herbal medicines<br>  
+- **College Student Research Programme of Zhejiang Province**, 2023-2024, Completed.<br>
+  **Grant No**: 2023R412012<br>
+  **Topic:** Construction of visualized AI technology system and its application in quality inspection of Chinese herbal medicines<br>
 
 
 ### Reviewer for Scientific Journals
