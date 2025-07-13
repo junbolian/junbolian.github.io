@@ -20,11 +20,12 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - <strong>J.J. Lian#</strong> (2025). Generative Foundation Models: A Comprehensive Beginner's Handbook. <strong>Amazon</strong>. [[Book (Preprint)]](https://dx.doi.org/10.2139/ssrn.5259947)[[Book (Amazon)]](https://www.amazon.com/dp/B0F9FQ4JKH)
 
-- Xiao, W., Ouyang, K., <strong>Lian, J. J.</strong>, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2025). Newton Downhill Optimizer for Global Optimization. <strong>Scientific Report</strong> (Under Review). 
+- <strong>J.J. Lian</strong>, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen# (2025). Trend-Aware Mechanism for Metaheuristic Algorithms. <strong>Applied Soft Computing</strong>. [[Paper]](https://doi.org/10.1016/j.asoc.2025.113505)
+[[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
+
+- Xiao, W., Ouyang, K., <strong>Lian, J. J.</strong>, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2025). Newton Downhill Optimizer for Global Optimization. <strong>iScience</strong> (Under Review). 
 
 - X. Tang*, <strong>J.J. Lian*#</strong>, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. <strong>Journal of Big Data</strong> (Under Review). [[Code]](https://github.com/junbolian/IECO)
-
-- <strong>J.J. Lian</strong>, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen# (2025). Trend-Aware Mechanism for Metaheuristic Algorithms. <strong>Applied Soft Computing</strong> (Under Review). [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
 
 - <strong>J.J. Lian#</strong> (2025). Twisted Convolutional Networks (TCNs): Enhancing Feature Interactions for Non-Spatial Data Classification. <strong>IEEE Transactions on Artificial Intelligence</strong> (Under Review). [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
 
@@ -72,6 +73,8 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 ### Reviewer for Scientific Journals
 
+- <strong>Journal of Big Data</strong>
+
 - <strong>Scientific Report</strong>
 
 - <strong>Computers in Biology and Medicine</strong>
@@ -82,8 +85,10 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - <strong>The Journal of Computation Design and Engineering</strong>
 
-- <strong>Journal of Big Data</strong>
+- <strong>Discover Applied Sciences</strong>
 
 - <strong>Earth Science Informatics</strong>
+
+- <strong>Annals of Mathematics and Artificial Intelligence</strong>
 
 
