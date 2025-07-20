@@ -23,7 +23,7 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 - <strong>J.J. Lian</strong>, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen# (2025). Trend-Aware Mechanism for Metaheuristic Algorithms. <strong>Applied Soft Computing</strong>. [[Paper]](https://doi.org/10.1016/j.asoc.2025.113505)
 [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
 
-- Xiao, W., Ouyang, K., <strong>Lian, J. J.</strong>, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2025). Newton Downhill Optimizer for Global Optimization. <strong>iScience</strong> (Under Review). 
+- Xiao, W., <strong>Lian, J. J.</strong>, Ouyang, K., Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2025). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. <strong>Biomedical Signal Processing and Control Journal</strong> (Under Review). 
 
 - X. Tang*, <strong>J.J. Lian*#</strong>, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. <strong>Journal of Big Data</strong> (Under Review). [[Code]](https://github.com/junbolian/IECO)
 
