@@ -27,7 +27,7 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - X. Tang*, <strong>J.J. Lian*#</strong>, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. <strong>Journal of Big Data</strong> (Under Review). [[Code]](https://github.com/junbolian/IECO)
 
-- <strong>J.J. Lian#</strong> (2025). Twisted Convolutional Networks (TCNs): Enhancing Feature Interactions for Non-Spatial Data Classification. <strong>IEEE Transactions on Artificial Intelligence</strong> (Under Review). [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
+- <strong>J.J. Lian#</strong> (2025). Twisted Convolutional Networks (TCNs): Enhancing Feature Interactions for Non-Spatial Data Classification. <strong>Neural Networks</strong> (Under Review). [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
 
 
 ### Patents [Read more](https://patents.google.com/?inventor=%E8%BF%9E%E4%BF%8A%E5%8D%9A)
