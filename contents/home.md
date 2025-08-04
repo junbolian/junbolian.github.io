@@ -25,7 +25,8 @@ jacoblian[at]u.northwestern.edu
 - New York University
 - Cornell University
 - Johns Hopkins University
+- University of South California
 
 #### Research Interests
-Mathematical Modeling, Evolutionary Computation, Generative AI, Swarm Optimization.
+Mathematical Modeling, Evolutionary Computation, Generative AI, Operation Research.
 

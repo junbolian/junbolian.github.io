@@ -35,7 +35,7 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - Ouyang, K., Hou, T., <strong>Lian， J.J.</strong>, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J. (2025). Stochastic gradient-guided adaptive differential evolution: Algorithm and its application in the diagnosis of COVID-19, influenza, and bacterial pneumonia. <strong>Artificial Intelligence in Medicine</strong> (Under Review). [[Code]](https://github.com/oykc1234/EFS-ML)
 
-- <strong>Lian， J.J.</strong>, Zhu, J., Chen, H., Zhu, H. et al. (2026). TRELLIS-GPS: SMPL-Guided, geometry-conditioned projection-aware sparse-latent diffusion for 3D human generation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026) (In Progress). IEEE.
+- <strong>Lian， J.J.</strong>, Zhu, J., Chen, H., Zhu, H. et al. (2026). TRELLIS-GPS: SMPL-Guided, geometry-conditioned projection-aware sparse-latent diffusion for 3D human generation. <strong>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</strong> (In Progress). IEEE.
 
 
 ### Patents [Read more](https://patents.google.com/?inventor=%E8%BF%9E%E4%BF%8A%E5%8D%9A)
