@@ -23,19 +23,21 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 - <strong>J.J. Lian</strong>, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen# (2025). Trend-Aware Mechanism for Metaheuristic Algorithms. <strong>Applied Soft Computing</strong>. [[Paper]](https://doi.org/10.1016/j.asoc.2025.113505)
 [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
 
-- Xiao, W., <strong>Lian, J. J.</strong>, Ouyang, K., Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2025). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. <strong>Biomedical Signal Processing and Control Journal</strong> (Under Review). 
+- Xiao, W., <strong>Lian, J. J.</strong>, Ouyang, K.#, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2025). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. <strong>Biomedical Signal Processing and Control Journal</strong> (Under Review). 
 
 - X. Tang*, <strong>J.J. Lian*#</strong>, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. <strong>Journal of Big Data</strong>. [[Code]](https://github.com/junbolian/IECO)
 
-- Zhang, Y., Gong, W., Zhong, R., Chen, H., Yu, J., <strong>Lian， J.J.</strong>, Zhao, J., & Gao, Z.-M. (2025). Advanced Design for Nonlinear Photovoltaic System Problems: A CoEvolutionary Framework Based on A Decomposition Approach. <strong>Swarm and Evolutionary Computation</strong>. 
+- Zhao, J., Zhang, Y., Zhong, R., Chen, H., <strong>Lian, J. J.</strong>, & Gao, Z.-M.# (2025). A Paradigm of Evolutionary Manytasking Optimization for Solving Nonlinear Equation Systems: A Two-Stage Framework with Adaptive Knowledge Transfer, Sharing and Hybrid Resource Sampling. <strong>Expert Systems with Applications</strong>.
+
+- Zhang, Y., Gong, W., Zhong, R., Chen, H., Yu, J., <strong>Lian， J.J.</strong>, Zhao, J., & Gao, Z.-M.# (2025). Advanced Design for Nonlinear Photovoltaic System Problems: A Co-Evolutionary Framework Based on A Decomposition Approach. <strong>Swarm and Evolutionary Computation</strong>. 
 
 - <strong>Lian， J.J.</strong>, Chen, H., Ouyang, K., Zhang, Y., Zhong, R., & Chen, H.# (2025). Twisted convolutional networks (TCNs): Enhancing feature interactions for non-spatial data classification <strong>Neural Networks</strong> (Under Review). [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
 
-- <strong>Lian， J.J.</strong>, Ouyang, K., Zhong, R., Zhang, Y., & Chen, H. (2025). *IKUN: A mean-field game theoretic KD-tree density guided mechanism for swarm optimization. <strong>Swarm and Evolutionary Computation</strong> (Under Review). [[Code]](https://github.com/junbolian/IKUN-mechanism)
+- <strong>Lian， J.J.</strong>, Ouyang, K., Zhong, R., Zhang, Y., & Chen, H.# (2026). IKUN: A mean-field game theoretic KD-tree density guided mechanism for swarm optimization. <strong>Swarm and Evolutionary Computation</strong> (Under Review). [[Code]](https://github.com/junbolian/IKUN-mechanism)
 
-- Ouyang, K., Hou, T., <strong>Lian， J.J.</strong>, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J. (2025). Stochastic gradient-guided adaptive differential evolution: Algorithm and its application in the diagnosis of COVID-19, influenza, and bacterial pneumonia. <strong>Artificial Intelligence in Medicine</strong> (Under Review). [[Code]](https://github.com/oykc1234/EFS-ML)
+- Ouyang, K., Hou, T., <strong>Lian， J.J.</strong>, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J.# (2026). Stochastic gradient-guided adaptive differential evolution: Algorithm and its application in the diagnosis of COVID-19, influenza, and bacterial pneumonia. <strong>Artificial Intelligence in Medicine</strong> (Under Review). [[Code]](https://github.com/oykc1234/EFS-ML)
 
-- <strong>Lian， J.J.</strong>, Zhu, J., Chen, H., Zhu, H. et al. (2026). TRELLIS-GPS: SMPL-Guided, geometry-conditioned projection-aware sparse-latent diffusion for 3D human generation. <strong>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</strong> (In Progress). IEEE.
+- <strong>Lian， J.J.</strong>, Zhu, J., Chen, H., Zhu, H.# et al. (2026). TRELLIS-GPS: SMPL-Guided, geometry-conditioned projection-aware sparse-latent diffusion for 3D human generation. <strong>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</strong> (In Progress). IEEE.
 
 
 ### Patents [Read more](https://patents.google.com/?inventor=%E8%BF%9E%E4%BF%8A%E5%8D%9A)
