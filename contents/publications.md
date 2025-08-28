@@ -23,13 +23,13 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 - <strong>J.J. Lian</strong>, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen# (2025). Trend-Aware Mechanism for Metaheuristic Algorithms. <strong>Applied Soft Computing</strong>. [[Paper]](https://doi.org/10.1016/j.asoc.2025.113505)
 [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
 
-- Xiao, W., <strong>Lian, J. J.</strong>, Ouyang, K.#, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2025). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. <strong>Biomedical Signal Processing and Control Journal</strong> (Under Review). 
+- X. Tang*, <strong>J.J. Lian*#</strong>, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. <strong>Journal of Big Data</strong>. [[Paper]](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-025-01260-0) [[Code]](https://github.com/junbolian/IECO)
 
-- X. Tang*, <strong>J.J. Lian*#</strong>, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. <strong>Journal of Big Data</strong>. [[Code]](https://github.com/junbolian/IECO)
-
-- Zhao, J., Zhang, Y., Zhong, R., Chen, H., <strong>Lian, J. J.</strong>, & Gao, Z.-M.# (2025). A Paradigm of Evolutionary Manytasking Optimization for Solving Nonlinear Equation Systems: A Two-Stage Framework with Adaptive Knowledge Transfer, Sharing and Hybrid Resource Sampling. <strong>Expert Systems with Applications</strong>.
+- Zhao, J., Zhang, Y., Zhong, R., Chen, H., <strong>Lian, J. J.</strong>, & Gao, Z.-M.# (2025). A Paradigm of Evolutionary Manytasking Optimization for Solving Nonlinear Equation Systems: A Two-Stage Framework with Adaptive Knowledge Transfer, Sharing and Hybrid Resource Sampling. <strong>Expert Systems with Applications</strong>. [[Paper]](https://doi.org/10.1016/j.eswa.2025.129459)
 
 - Zhang, Y., Gong, W., Zhong, R., Chen, H., Yu, J., <strong>Lian， J.J.</strong>, Zhao, J., & Gao, Z.-M.# (2025). Advanced Design for Nonlinear Photovoltaic System Problems: A Co-Evolutionary Framework Based on A Decomposition Approach. <strong>Swarm and Evolutionary Computation</strong>. 
+
+- Xiao, W., <strong>Lian, J. J.</strong>, Ouyang, K.#, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2025). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. <strong>Biomedical Signal Processing and Control Journal</strong> (Under Review). 
 
 - <strong>Lian， J.J.</strong>, Chen, H., Ouyang, K., Zhang, Y., Zhong, R., & Chen, H.# (2025). Twisted convolutional networks (TCNs): Enhancing feature interactions for non-spatial data classification <strong>Neural Networks</strong> (Under Review). [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
 
@@ -103,4 +103,4 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - <strong>Automated Software Engineering</strong>
 
-
+- <strong>Signal, Image and Video Processing</strong>
