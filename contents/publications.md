@@ -49,7 +49,7 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
   Patent Application No.: CN202211264436.2 / Patent Publication No.: CN115598134A
 
 - **A detecting device and a method for Angelica tablets**  
-  Patent Application No.: CN202310446979.4 / Patent Publication No.: CN116465862A
+  Patent Application No.: CN202310446979.4 / Patent Publication No.: CN116465862B
 
 - **A detecting method for Angelica tablets**  
   Patent Application No.: CN202310435925.8 / Patent Publication No.: CN116448722A
@@ -100,5 +100,7 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 - <strong>Earth Science Informatics</strong>
 
 - <strong>Annals of Mathematics and Artificial Intelligence</strong>
+
+- <strong>Automated Software Engineering</strong>
 
 
