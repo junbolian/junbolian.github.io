@@ -6,7 +6,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junbo-Lian-2)
 
 
-**Junbo Lian** is currently pursuing the prestigious Master's in Machine Learning and Data Science (MLDS) at Northwestern University, USA, and is set to graduate from Zhejiang A\&F University, majoring in Data Science and Big Data Technology. His undergraduate thesis was recognized as an *outstanding graduation thesis*. His research interests include Artificial Intelligence-Generated Content (AIGC), Computer Vision (CV), Evolutionary Computation, Operations Research, and Mathematical Modeling. He serves as a reviewer for internationally recognized journals, including *Engineering Applications of Artificial Intelligence*, *Scientific Reports*, *Computers in Biology and Medicine*, *Journal of Supercomputing*, *Journal of Computational Design and Engineering*, and *Journal of Big Data*. Junbo has published multiple papers in prominent journals such as *Expert Systems with Applications*, *Applied Soft Computing*, *Computers in Biology and Medicine*, and *International Journal of Systems Science*, with two papers recognized as *ESI Hot Papers*. Junbo has filed several national invention patents related to Machine Learning and Data Science. He was honored with the *National Scholarship* in 2024 for his outstanding academic achievements and has received over ten prestigious awards at provincial and national levels. Furthermore, he invented a *Chinese herbal Medicine mold detection system* and founded Hangzhou Boshiwei (Bossway) Testing Technology Co., Ltd., attracting extensive media coverage.
+**Junbo Lian** is currently pursuing the prestigious Master's in Machine Learning and Data Science (MLDS) at Northwestern University, USA, and is set to graduate from Zhejiang A\&F University, majoring in Data Science and Big Data Technology. His undergraduate thesis was recognized as an *outstanding graduation thesis*. His research interests include Artificial Intelligence-Generated Content (AIGC), Computer Vision (CV), Evolutionary Computation, Operations Research, and Mathematical Modeling. He serves as a reviewer for internationally recognized journals, including *Journal of Advanced Research*, *Engineering Applications of Artificial Intelligence*, *Scientific Reports*, *Computers in Biology and Medicine*, *Journal of Supercomputing*, *Journal of Computational Design and Engineering*, and *Journal of Big Data*. Junbo has published multiple papers in prominent journals such as *Expert Systems with Applications*, *Applied Soft Computing*, *Computers in Biology and Medicine*, and *International Journal of Systems Science*, with two papers recognized as *ESI Hot Papers*. Junbo has filed several national invention patents related to Machine Learning and Data Science. He was honored with the *National Scholarship* in 2024 for his outstanding academic achievements and has received over ten prestigious awards at provincial and national levels. Furthermore, he invented a *Chinese herbal Medicine mold detection system* and founded Hangzhou Boshiwei (Bossway) Testing Technology Co., Ltd., attracting extensive media coverage.
 
 
 #### Email
@@ -15,8 +15,8 @@ junbolian[at]qq.com
 jacoblian[at]u.northwestern.edu
 
 #### Education
-- B.S., Data Science and Big Data Technology, Zhejiang A&F University, 2021-2025.
-- M.S., Machine Learning and Data Science (MLDS), Northwestern University, 2025-2026 (Expected).
+- B.S., Data Science and Big Data Technology, Zhejiang A&F University, 2021.09-2025.06.
+- M.S., Machine Learning and Data Science (MLDS), Northwestern University, 2025.09-2026.12 (Expected).
 
 #### Offer
 - Northwestern University
