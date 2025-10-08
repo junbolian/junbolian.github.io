@@ -95,6 +95,8 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - <strong>Engineering Applications of Artificial Intelligence</strong>
 
+- <strong>Expert Systems With Apllications</strong>
+
 - <strong>Scientific Report</strong>
 
 - <strong>The Journal of Computation Design and Engineering</strong>
@@ -114,3 +116,4 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 - <strong>Annals of Mathematics and Artificial Intelligence</strong>
 
 - <strong>Automated Software Engineering</strong>
+
