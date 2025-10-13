@@ -97,6 +97,8 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - <strong>Expert Systems With Apllications</strong>
 
+- <strong>Applied Soft Computing</strong>
+
 - <strong>Scientific Report</strong>
 
 - <strong>The Journal of Computation Design and Engineering</strong>
