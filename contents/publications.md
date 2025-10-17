@@ -115,6 +115,14 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - <strong>Earth Science Informatics</strong>
 
+- <strong>Discover Computing</strong>
+
+- <strong>Polymer Bulletin</strong>
+
+- <strong>Journal of Agriculture and Food Research</strong>
+
+- <strong>Applied Food Research</strong>
+
 - <strong>Annals of Mathematics and Artificial Intelligence</strong>
 
 - <strong>Automated Software Engineering</strong>
