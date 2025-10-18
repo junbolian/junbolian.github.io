@@ -29,7 +29,7 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - Zhang, Y., Gong, W., Zhong, R., Chen, H., Yu, J., <strong>Lian， J.J.</strong>, Zhao, J., & Gao, Z.-M.# (2025). Advanced Design for Nonlinear Photovoltaic System Problems: A Co-Evolutionary Framework Based on A Decomposition Approach. <strong>Swarm and Evolutionary Computation</strong>. [[Paper]](https://doi.org/10.1016/j.swevo.2025.102179)
 
-- <strong>Lian， J.J.</strong>, Chen, H., Ouyang, K., Zhang, Y., Zhong, R., & Chen, H.# (2025). Twisted convolutional networks (TCNs): Enhancing feature interactions for non-spatial data classification <strong>Neural Networks</strong> (Under Review). [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
+- <strong>Lian， J.J.</strong>, Chen, H., Ouyang, K., Zhang, Y., Zhong, R., & Chen, H.# (2025). Twisted convolutional networks (TCNs): Enhancing feature interactions for non-spatial data classification. <strong>Neural Networks</strong> (Under Review). [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
 
 - Xiao, W., <strong>Lian, J. J.</strong>, Ouyang, K.#, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2026). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. <strong>Biomedical Signal Processing and Control Journal</strong> (Under Review). 
 
