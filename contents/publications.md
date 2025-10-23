@@ -37,7 +37,7 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - Ouyang, K., Hou, T., <strong>Lian， J.J.</strong>, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J.# (2026). Stochastic gradient-guided adaptive differential evolution: Algorithm and its application in the diagnosis of COVID-19, influenza, and bacterial pneumonia. <strong>Artificial Intelligence in Medicine</strong> (Under Review). [[Code]](https://github.com/oykc1234/EFS-ML)
 
-- <strong>Lian， J.J.</strong>, Ouyang, K., Zhang, Y., Zhong, R., Chen, H., Chen, H.#, Shibasaki, R. (2026). Competitive Cluster Elimination (CCE): k-means-guided, evaluation-neutral plug-in for large-scale swarm optimization. <strong>Computers & Operations Research</strong> (Under Review). [[Code]](https://github.com/junbolian/Competitive-Cluster-Elimination)
+- <strong>Lian， J.J.</strong>, Ouyang, K., Zhang, Y., Zhong, R., Chen, H., Zheng, Z., Sun, Y., Chen, H.#. (2026). Competitive Cluster Elimination (CCE): k-means-guided, evaluation-neutral plug-in for large-scale swarm optimization. <strong>Applied Soft Computing</strong> (Under Review). [[Code]](https://github.com/junbolian/Competitive-Cluster-Elimination)
 
 -  Chen, H., <strong>Lian， J.J.</strong> (2026). KalHuman: A Frequency-Aware Kalman Framework for Two-Human Close Interaction Pose Estimation. <strong>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</strong> (In Progress). IEEE.
 
@@ -78,7 +78,7 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 ### Research Fund
 
-- **National College Students Innovation and Entrepreneurship Training**, 2023-2024, Completed.<br>
+- **National College Students Innovation and Entrepreneurship Training**, 2023-2025, Completed.<br>
   **Grant No**: 202310341080X<br>
   **Topic:** Research on early mold detection method of Chinese herbal medicine based on algorithm optimization of multi-AI collaborative model<br>
 
