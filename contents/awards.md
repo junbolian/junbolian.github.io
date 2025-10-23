@@ -30,5 +30,11 @@
 - **“Undergraduate Student Lian Junbo Published a Paper in *International Journal of Systems Science*”** (数计学院本科生连俊博在《International Journal of Systems Science》发表论文)  
   [Read more](https://www.zafu.edu.cn/info/1162/113830.htm)
 
-- **“First Honorary Student of Professor Shibin Su's Team at Fuzhou University”** (福州大学苏世斌教授团队首位荣誉学生)  
-  [Read more](https://jgxy.fzu.edu.cn/info/1023/15443.htm)
+- **“Research Assistant, ‘Data Mining’ Research Group, Wenzhou University (Dean Huiling Chen’s Group)”**（温州大学“数据挖掘”研究组〔陈慧灵院长组〕研究助理）
+  [Read more](https://mdm.wzu.edu.cn/pages/members-detail/lianjunbo.htm)
+
+- **“Master’s Student, Machine Learning & Data Science (Class of 2026), Northwestern University”**（西北大学2026届机器学习与数据科学专业研究生）
+  [Read more](https://www.mccormick.northwestern.edu/machine-learning-data-science/people/students/class-of-2026/lian-junbo-jacob.html)
+
+- **“New Book: Generative Foundation Models — A Comprehensive Beginner’s Handbook”**（连俊博新书《Generative Foundation Models: A Comprehensive Beginner’s Handbook》发布）
+  [Read more](https://www.amazon.com/Generative-Foundation-Models-Comprehensive-Beginners-ebook/dp/B0F9FQ4JKH)
