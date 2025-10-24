@@ -99,6 +99,8 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - <strong>Applied Soft Computing</strong>
 
+- <strong>Swarm and Evolutionary Computation</strong>
+
 - <strong>Scientific Report</strong>
 
 - <strong>The Journal of Computation Design and Engineering</strong>
