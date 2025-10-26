@@ -18,16 +18,16 @@
 - **Third Prize**, 5th National College Students Mathematics Competition on Network Platform, 2022.
 
 ### News
-- **“Two-second Mold Detection: Connecting Traditional Chinese Medicine with Big Data”** (两秒检测霉变，浙江大学生为中药“连”上大数据)<br>  
+- **“Two-second Mold Detection: Connecting Traditional Chinese Medicine with Big Data”** (两秒检测霉变，浙江大学生为中药“连”上大数据)  
   [Read more](https://tidenews.com.cn/news.html?id=2461870)
 
-- **“Undergraduate Team from Zhejiang A&F University Develops Ultra-Early Detection System for Mold in Chinese Medicinal Materials”** (浙农林大本科生团队研发中药材超早期霉变检测系统)<br>  
+- **“Undergraduate Team from Zhejiang A&F University Develops Ultra-Early Detection System for Mold in Chinese Medicinal Materials”** (浙农林大本科生团队研发中药材超早期霉变检测系统) 
   [Read more](https://kjb.zjol.com.cn/html/2023-05/05/content_2826052.htm?div=-1)
 
-- **“High-level Research Paper by Undergraduate Student of Data Science and Big Data Technology Published in *Expert Systems with Applications*”** (数计学院大数据专业本科生在《Expert Systems with Applications》期刊发表高水平研究论文)<br>  
+- **“High-level Research Paper by Undergraduate Student of Data Science and Big Data Technology Published in *Expert Systems with Applications*”** (数计学院大数据专业本科生在《Expert Systems with Applications》期刊发表高水平研究论文)  
   [Read more](https://www.zafu.edu.cn/info/1162/110660.htm)
 
-- **“Undergraduate Student Lian Junbo Published a Paper in *International Journal of Systems Science*”** (数计学院本科生连俊博在《International Journal of Systems Science》发表论文)<br>  
+- **“Undergraduate Student Lian Junbo Published a Paper in *International Journal of Systems Science*”** (数计学院本科生连俊博在《International Journal of Systems Science》发表论文) 
   [Read more](https://www.zafu.edu.cn/info/1162/113830.htm)
 
 - **“Research Assistant, ‘Data Mining’ Research Group, Wenzhou University (Dean Huiling Chen’s Group)”** （温州大学“数据挖掘”研究组〔陈慧灵院长组〕研究助理）<br>
