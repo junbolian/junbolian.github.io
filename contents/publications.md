@@ -97,6 +97,8 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - <strong>Expert Systems With Apllications</strong>
 
+- <strong>Knowledge-Based Systems</strong>
+
 - <strong>Applied Soft Computing</strong>
 
 - <strong>Swarm and Evolutionary Computation</strong>
