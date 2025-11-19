@@ -29,21 +29,20 @@ _(* stands for equal contribution, # stands for Corresponding Author)_
 
 - Zhang, Y., Gong, W., Zhong, R., Chen, H., Yu, J., <strong>Lian， J.J.</strong>, Zhao, J., & Gao, Z.-M.# (2025). Advanced Design for Nonlinear Photovoltaic System Problems: A Co-Evolutionary Framework Based on A Decomposition Approach. <strong>Swarm and Evolutionary Computation</strong>. [[Paper]](https://doi.org/10.1016/j.swevo.2025.102179)
 
-- <strong>Lian， J.J.</strong>, Chen, H., Ouyang, K., Zhang, Y., Zhong, R., & Chen, H.# (2025). Twisted convolutional networks (TCNs): Enhancing feature interactions for non-spatial data classification. <strong>Neural Networks</strong> (Under Review). [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
+- <strong>Lian， J.J.</strong>, Chen, H., Ouyang, K., Zhang, Y., Zhong, R., & Chen, H.# (2025). Twisted convolutional networks (TCNs): Enhancing feature interactions for non-spatial data classification. <strong>Neural Networks</strong>. [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
 
-- Xiao, W., <strong>Lian, J. J.</strong>, Ouyang, K.#, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2026). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. <strong>Biomedical Signal Processing and Control Journal</strong> (Under Review). 
+- Xiao, W., <strong>Lian, J. J.</strong>, Ouyang, K.#, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2026). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. <strong>Biomedical Signal Processing and Control Journal</strong>. 
 
 - <strong>Lian， J.J.</strong>, Ouyang, K., Zhong, R., Zhang, Y., & Chen, H.# (2026). IKUN: A mean-field game theoretic KD-tree density guided mechanism for swarm optimization. <strong>Journal of Advanced Research</strong> (Under Review). [[Code]](https://github.com/junbolian/IKUN-mechanism)
 
 - Ouyang, K., Hou, T., <strong>Lian， J.J.</strong>, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J.# (2026). Stochastic gradient-guided adaptive differential evolution: Algorithm and its application in the diagnosis of COVID-19, influenza, and bacterial pneumonia. <strong>Artificial Intelligence in Medicine</strong> (Under Review). [[Code]](https://github.com/oykc1234/EFS-ML)
 
-- <strong>Lian， J.J.</strong>, Ouyang, K., Zhang, Y., Zhong, R., Chen, H., Zheng, Z., Sun, Y., Chen, H.#. (2026). Competitive Cluster Elimination (CCE): k-means-guided, evaluation-neutral plug-in for large-scale swarm optimization. <strong>Applied Soft Computing</strong> (Under Review). [[Code]](https://github.com/junbolian/Competitive-Cluster-Elimination)
+- <strong>Lian， J.J.</strong>, Ouyang, K., Zhang, Y., Zhong, R., Chen, H., Zheng, Z., Sun, Y., Chen, H.#. (2026). Competitive Cluster Elimination (CCE) for large-scale swarm optimization. <strong>Applied Soft Computing</strong> (Under Review). [[Code]](https://github.com/junbolian/Competitive-Cluster-Elimination)
 
--  Chen, H., <strong>Lian， J.J.</strong> (2026). KalHuman: A Frequency-Aware Kalman Framework for Two-Human Close Interaction Pose Estimation. <strong>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</strong> (In Progress). IEEE.
+-  Chen, H., <strong>Lian， J.J.</strong> (2026). KalHuman: A Frequency-Aware Kalman Framework for Two-Human Close Interaction Pose Estimation. <strong>ECCV 2026</strong> (In Progress). IEEE.
 
 - <strong>Lian， J.J.</strong>, Chen, H., Zhu, J., Zhu, H.# et al. (2026). TRELLIS-GPS: SMPL-Guided, geometry-conditioned projection-aware sparse-latent diffusion for 3D human generation. <strong>ECCV 2026</strong> (In Progress). 
 
-- <strong>Lian， J.J.</strong>, Lin, H.B. et al. (2026). Joint Assortment and Bounded Pricing in Pharmacy Retail: A Transparent MILP with Rolling Evaluation and Post-hoc Rationales. <strong>European Journal of Operational Research</strong>. 
 
 
 ### Patents [Read more](https://patents.google.com/?inventor=%E8%BF%9E%E4%BF%8A%E5%8D%9A)
