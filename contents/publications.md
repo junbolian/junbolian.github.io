@@ -4,9 +4,10 @@
 
 #### 📈 Operations Research & Supply Chain Management
 
-*(Focus on data-driven pricing strategies, inventory management, and platform economics)*
+*(Focus on data-driven pricing strategies, inventory management, Supply Chain Management, and platform economics)*
 
-  - **J.J. Lian**, C. Zhang, C.-P. Teo\# (2025). Robust Reference-Band Multiproduct Pricing for On-Demand Pharmacies. (Working Paper).
+  - **J.J. Lian**, C. Zhang, C.-P. Teo\# (2026). Robust Reference-Band Multiproduct Pricing for On-Demand Pharmacies. (Draft in Preparation).
+-----
 
 #### 🤖 Generative AI, LLMs & Computer Vision
 
@@ -21,10 +22,11 @@
   - **J.J. Lian**, Chen, H., Ouyang, K., Zhang, Y., Zhong, R., & Chen, H.\# (2025). Twisted convolutional networks (TCNs): Enhancing feature interactions for non-spatial data classification. **Neural Networks**. [[Paper]](https://arxiv.org/pdf/2412.00238) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
 
   - Luo, S., Zhang, Y., Zhang, Z., Guo, B., **J.J. Lian**, Jiang, H., Zou, S., & Wang, W. (2025). EPDD-YOLO: An Efficient Benchmark for Pavement Damage Detection Based on Mamba-YOLO. **Measurement**. [[Paper]](https://doi.org/10.1016/j.measurement.2025.117638)
+-----
 
 #### 🧬 Metaheuristic Algorithms & Swarm Intelligence
 
-*(Focus on evolutionary computation theory and large-scale optimization problems)*
+*(Focus on evolutionary computation theory and large-scale optimization)*
 
   - **J.J. Lian**, Ouyang, K., Zhong, R., Zhang, Y., & Chen, H.\# (2026). IKUN: A mean-field game theoretic KD-tree density guided mechanism for swarm optimization. **Journal of Advanced Research** (Under Review). [[Code]](https://github.com/junbolian/IKUN-mechanism)
 
@@ -50,11 +52,14 @@
 
   - **J. Lian**, G. Hui\# (2024). Human Evolutionary Optimization Algorithm. **Expert Systems with Applications**. [[Paper]](https://doi.org/10.1016/j.eswa.2023.122638) [[Code]](https://github.com/junbolian/HEOA)
 
+-----
 #### 🌾 AI in Food & Agriculture Engineering
 
 *(Interdisciplinary applications of AI in quality prediction and pattern recognition)*
 
   - **J. Lian\#**, Wu, P., Han, W., Xie, Y., Zheng, Y., Xu, Y., ... & Hui, G. (2025). Discrimination of Chinese prickly ash origin place using electronic nose system and feature extraction with support vector boosting machine. **Cogent Food & Agriculture**. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/23311932.2025.2464939) [[Code]](https://github.com/junbolian/SVBM)
+  
+  - T. Zhu, X. Wu, L. Ma, Y. Zeng, **J. Lian**, J. Liu, X. Chen, L. Zhong, J. Chang, G. Hui# (2024). Rapid mold detection in chinese herbal medicine using enhanced deep learning technology. Journal of Medicinal Food. [[Paper]](https://doi.org/10.1089/jmf.2024.k.0004)
 
   - **J. Lian**, J. Zhang, Q. Liu, R. Zhu, J. Ning, S. Xiong, G. Hui\#, Y. Gao, X. Lou (2023). Visualized Pattern Recognition Optimization for Apple Mechanical Damage by Laser Relaxation Spectroscopy. **International Journal of Food Properties**. [[Paper]](https://doi.org/10.1080/10942912.2023.2221404)
 
@@ -90,6 +95,8 @@
 
   - **A device and a method for detecting mold in Atractylodes macrocephala**
     Patent Application No.: CN202410071756.9 / Patent Publication No.: CN117990857A
+  
+-----
 
 ### Research Fund
 
@@ -100,6 +107,8 @@
   - **College Student Research Programme of Zhejiang Province**, 2023-2024, Completed.<br>
     **Grant No**: 2023R412012<br>
     **Topic:** Construction of visualized AI technology system and its application in quality inspection of Chinese herbal medicines
+
+-----
 
 
 ### Reviewer for Scientific Journals
