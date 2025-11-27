@@ -36,7 +36,7 @@
 
   - Ouyang, K., Hou, T., **J.J. Lian**, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J.\# (2026). Stochastic gradient-guided adaptive differential evolution: Algorithm and its application in the diagnosis of COVID-19, influenza, and bacterial pneumonia. **Artificial Intelligence in Medicine** (Under Review). [[Code]](https://github.com/oykc1234/EFS-ML)
 
-  - X. Tang\*, \**J.J. Lian*\#\*\*, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen\# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. **Journal of Big Data**. [[Paper]](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-025-01260-0) [[Code]](https://github.com/junbolian/IECO)
+  - X. Tang\*, **J.J. Lian\#\***, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen\# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. **Journal of Big Data**. [[Paper]](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-025-01260-0) [[Code]](https://github.com/junbolian/IECO)
 
   - **J.J. Lian**, K. OuYang, R. Zhong, Y. Zhang, S. Luo, L. Ma, X. Wu, H. Chen\# (2025). Trend-Aware Mechanism for Metaheuristic Algorithms. **Applied Soft Computing**. [[Paper]](https://doi.org/10.1016/j.asoc.2025.113505) [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
 
