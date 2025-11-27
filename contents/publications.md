@@ -2,7 +2,7 @@
 
 *(\* stands for equal contribution, \# stands for Corresponding Author)*
 
-#### 📈 Operations Research & Supply Chain Management
+#### 📈 Operations Research
 
 *(Focus on data-driven pricing strategies, inventory management, Supply Chain Management, and platform economics)*
 
