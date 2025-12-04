@@ -21,8 +21,8 @@
 - **“Two-second Mold Detection: Connecting Traditional Chinese Medicine with Big Data”** (两秒检测霉变，浙江大学生为中药“连”上大数据)  
   [Read more](https://tidenews.com.cn/news.html?id=2461870)
 
-- **“Undergraduate Team from Zhejiang A&F University Develops Ultra-Early Detection System for Mold in Chinese Medicinal Materials”** (浙农林大本科生团队研发中药材超早期霉变检测系统)<br> 
-  [Read more](https://kjb.zjol.com.cn/html/2023-05/05/content_2826052.htm?div=-1)
+- **“Two Seconds: ‘Fire-Eye’ Detection of Mold in Chinese Medicinal Materials”**（两秒钟，火眼金睛看出中药材是否霉变）<br>
+  [Read more](https://www.sohu.com/a/672773600_121124379)
 
 - **“High-level Research Paper by Undergraduate Student of Data Science and Big Data Technology Published in *Expert Systems with Applications*”** (数计学院大数据专业本科生在《Expert Systems with Applications》期刊发表高水平研究论文)  
   [Read more](https://www.zafu.edu.cn/info/1162/110660.htm)
