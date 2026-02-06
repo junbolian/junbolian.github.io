@@ -192,17 +192,6 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
-    // Fetch citation stats from OpenAlex API (author ID: A5021718503)
-    fetch('https://api.openalex.org/authors/A5021718503?select=cited_by_count,summary_stats')
-        .then(r => r.json())
-        .then(author => {
-            const citEl = document.getElementById('stat-citations');
-            const hEl = document.getElementById('stat-hindex');
-            if (citEl && author.cited_by_count != null) citEl.textContent = author.cited_by_count;
-            if (hEl && author.summary_stats && author.summary_stats.h_index != null) hEl.textContent = author.summary_stats.h_index;
-        })
-        .catch(() => {});
-
     // Gallery tabs
     document.querySelectorAll('.gallery-tab').forEach(tab => {
         tab.addEventListener('click', () => {
