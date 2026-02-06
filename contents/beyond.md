@@ -27,5 +27,5 @@
 - **Content Creator** -- Operates Douyin, WeChat, and RedNote accounts on AI and cooking (10K+ followers)
 - **Chinese Metaphysics** -- Passionate about traditional Chinese studies including Feng Shui, BaZi (Four Pillars of Destiny), Meihua Yishu (Plum Blossom Numerology), and Qimen Dunjia; enjoys reading BaZi charts for friends
 - **Travel** -- Has visited the USA, Japan, Singapore, UK, Malaysia, Indonesia, and more
-- **Pet Parent** -- Proud owner of a cat named "Dr." (博士) and a parrot named "Niuniu" (妞妞). Niuniu inspired the invention of the [Parrot Optimizer (PO)](https://github.com/junbolian/PO), recognized as an *ESI Hot Paper* (top 0.1%)
+- **Pet Parent** -- Proud owner of a cat named "Dr." (博士) and a parrot named "Niuniu" (妞妞). Niuniu inspired the invention of the [Parrot Optimizer (PO)](https://github.com/junbolian/PO), recognized as an *ESI Hot Paper* (TOP 0.1%)
 - **Chief Analytics Officer (CAO)** -- Serves as CAO at Wenzhou Buyi Pharmacy, a national TOP-100 pharmaceutical retail enterprise
