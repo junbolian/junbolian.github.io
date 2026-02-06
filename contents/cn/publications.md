@@ -1,4 +1,4 @@
-*(\* 表示同等贡献, \# 表示通讯作者)* &ensp; [Google Scholar - 查看全部](https://scholar.google.com/citations?hl=zh-CN&user=swfyyjkAAAAJ)
+*(\* 表示同等贡献, \# 表示通讯作者)* &ensp; [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-查看全部-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=swfyyjkAAAAJ)
 
 #### 运筹学
 

@@ -499,6 +499,13 @@ a:hover {
     transition: var(--transition);
 }
 
+#publications-md a[href*="scholar.google"]:has(img) {
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+    margin-left: 0;
+}
+
 #publications-md .main-body a[href*="doi.org"]:hover,
 #publications-md .main-body a[href*="arxiv"]:hover,
 #publications-md .main-body a[href*="github.com"]:hover,
