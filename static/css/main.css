@@ -883,6 +883,23 @@ a:hover {
     margin-bottom: 1.5rem;
 }
 
+.gallery-desc {
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin: -0.5rem 0 1.2rem;
+    line-height: 1.5;
+}
+
+.gallery-desc a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.gallery-desc a:hover {
+    text-decoration: underline;
+}
+
 .gallery-tab {
     display: inline-flex;
     align-items: center;

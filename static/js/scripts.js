@@ -52,6 +52,30 @@ const galleryData = {
     ]
 };
 
+// Gallery category descriptions (EN / CN)
+const galleryDescriptions = {
+    cook: {
+        en: '',
+        cn: ''
+    },
+    travel: {
+        en: '',
+        cn: ''
+    },
+    talkshow: {
+        en: '',
+        cn: ''
+    },
+    pet: {
+        en: 'Cat "Dr." (博士) & Parrot "Niuniu" (妞妞) — Niuniu inspired the invention of the <a href="https://github.com/junbolian/PO">Parrot Optimizer (PO)</a>, recognized as an <em>ESI Hot Paper</em> (top 0.1%).',
+        cn: '猫咪"博士" & 鹦鹉"妞妞" — 受妞妞启发发明了<a href="https://github.com/junbolian/PO">鹦鹉优化器（PO）</a>，论文被评为 <em>ESI 热点论文</em>（千分之一）。'
+    },
+    CAO: {
+        en: 'Chief Analytics Officer at Wenzhou Buyi Pharmacy, a national top-100 pharmaceutical retail enterprise.',
+        cn: '温州市布衣大药房（全国百强药品零售企业）首席分析官。'
+    }
+};
+
 let currentCategory = 'cook';
 let currentImageIndex = 0;
 let currentImages = [];
@@ -111,6 +135,16 @@ function renderGallery(category) {
 
     const images = galleryData[category] || [];
     currentImages = images.map(img => 'static/assets/img/gallery/' + category + '/' + img);
+
+    // Render description
+    const descEl = document.getElementById('galleryDesc');
+    if (descEl) {
+        const lang = localStorage.getItem('site-lang') || 'en';
+        const desc = galleryDescriptions[category];
+        const text = desc ? (lang === 'cn' ? desc.cn : desc.en) : '';
+        descEl.innerHTML = text;
+        descEl.style.display = text ? 'block' : 'none';
+    }
 
     grid.innerHTML = '';
     images.forEach((img, idx) => {
