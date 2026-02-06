@@ -192,14 +192,14 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
-    // Fetch citation stats from Semantic Scholar API (author ID: 2142241137)
-    fetch('https://api.semanticscholar.org/graph/v1/author/2142241137?fields=citationCount,hIndex,paperCount')
+    // Fetch citation stats from OpenAlex API (author ID: A5021718503)
+    fetch('https://api.openalex.org/authors/A5021718503?select=cited_by_count,summary_stats')
         .then(r => r.json())
         .then(author => {
             const citEl = document.getElementById('stat-citations');
             const hEl = document.getElementById('stat-hindex');
-            if (citEl && author.citationCount != null) citEl.textContent = author.citationCount;
-            if (hEl && author.hIndex != null) hEl.textContent = author.hIndex;
+            if (citEl && author.cited_by_count != null) citEl.textContent = author.cited_by_count;
+            if (hEl && author.summary_stats && author.summary_stats.h_index != null) hEl.textContent = author.summary_stats.h_index;
         })
         .catch(() => {});
 
