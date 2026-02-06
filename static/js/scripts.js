@@ -24,12 +24,12 @@ const galleryData = {
         '52e67621cd2b84a420c44b8470eff846.jpg',
         '6c987b3072b915e02ac15a5d0417b8a2.jpg',
         '6f76390a33d526f0799790dade572d18.jpg',
+        '74876a2e17940bf255e05773dd374f4e.jpg',
         '814e54e3dac00244217087622cc78a2f.jpg',
         '8d799e207039e6564797efce525defe2.jpg',
         'a1689996fb22c18cf0a6a31d82225e11.jpg',
         'b7767f70528b862b7a9c3fa706e171a5.jpg',
         'bafaf2bcd96fbec0cde12699ab020d6f.jpg',
-        'f556eb594e4fe772a511f47c3c859455.jpg',
         'ff2c33399c7659eb647feb785c954190.jpg'
     ],
     talkshow: [
@@ -41,7 +41,14 @@ const galleryData = {
     pet: [
         '4a33e8bf20d4001d2696cb77e4eb6a2c.jpg',
         '4e809a57dee9586c19e6910e03b882b8.jpg',
-        'e7fa75bf26fd2917cb6a66fd8af15fb1.jpg'
+        'e7fa75bf26fd2917cb6a66fd8af15fb1.jpg',
+        'parrot1.jpg',
+        'parrot2.jpg',
+        'parrot3.jpg'
+    ],
+    CAO: [
+        'dc74b7656d33661564ab1fd28ba72baa.jpg',
+        'e42916ddb0898fc9bd101730fd8a0b76.jpg'
     ]
 };
 
