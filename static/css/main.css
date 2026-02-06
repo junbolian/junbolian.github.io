@@ -991,7 +991,7 @@ a:hover {
 .gallery-tab.active {
     background: var(--primary);
     border-color: var(--primary);
-    color: var(--white);
+    color: #ffffff;
     box-shadow: 0 2px 8px rgba(26, 54, 93, 0.25);
 }
 
