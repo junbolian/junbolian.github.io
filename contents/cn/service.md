@@ -1,4 +1,4 @@
-### Reviewer for Scientific Journals
+### 学术期刊审稿人
 
 - [Journal of Advanced Research](https://www.sciencedirect.com/journal/journal-of-advanced-research)
 - [Journal of Big Data](https://journalofbigdata.springeropen.com/)

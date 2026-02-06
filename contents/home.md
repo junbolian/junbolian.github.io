@@ -11,8 +11,8 @@
 junbolian[at]qq.com &ensp;|&ensp; jacoblian[at]u.northwestern.edu
 
 #### Education
-- M.S., Machine Learning and Data Science (MLDS), Northwestern University, USA, 2025.09-2026.12 (Expected).
+- M.S., [Machine Learning and Data Science (MLDS)](https://www.mccormick.northwestern.edu/machine-learning-data-science/), Northwestern University, USA, 2025.09-2026.12 (Expected).
 - B.S., Data Science and Big Data Technology, Zhejiang A&F University, China, 2021.09-2025.06.
 
 #### Research Interests
-Operations Research, Mathematical Modeling, Evolutionary Computation, Generative AI, Computer Vision.
+Operations Research, Mathematical Modeling, Evolutionary Computation, Deep Learning, Large Language Models.
