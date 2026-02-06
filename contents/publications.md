@@ -1,4 +1,4 @@
-*(\* denotes equal contribution, \# denotes Corresponding Author)* &ensp; [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=swfyyjkAAAAJ)
+*(\* denotes equal contribution, \# denotes Corresponding Author)* &ensp; [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20All-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=swfyyjkAAAAJ)
 
 #### Operations Research
 
