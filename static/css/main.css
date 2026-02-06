@@ -1,0 +1,574 @@
+@import "./styles.css";
+
+/* ========================================
+   CSS Variables - Academic Color Palette
+   ======================================== */
+:root {
+    --primary: #1a365d;
+    --primary-light: #2c5282;
+    --primary-lighter: #ebf4ff;
+    --accent: #3182ce;
+    --accent-hover: #2b6cb0;
+    --text-primary: #1a202c;
+    --text-secondary: #4a5568;
+    --text-muted: #718096;
+    --bg-white: #ffffff;
+    --bg-light: #f7fafc;
+    --bg-gray: #edf2f7;
+    --border-color: #e2e8f0;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+    --shadow-md: 0 4px 14px rgba(0,0,0,0.08);
+    --shadow-lg: 0 10px 30px rgba(0,0,0,0.10);
+    --radius: 8px;
+    --radius-lg: 12px;
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-serif: 'Source Serif 4', 'Georgia', serif;
+    --transition: all 0.25s ease;
+}
+
+/* ========================================
+   Base Reset & Typography
+   ======================================== */
+body {
+    font-family: var(--font-sans) !important;
+    color: var(--text-primary);
+    background: var(--bg-white);
+    line-height: 1.7;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-sans) !important;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1.3;
+}
+
+a {
+    color: var(--accent);
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+a:hover {
+    color: var(--accent-hover);
+}
+
+::selection {
+    background: var(--accent);
+    color: white;
+}
+
+/* ========================================
+   Navigation
+   ======================================== */
+.site-nav {
+    background: rgba(255, 255, 255, 0.95) !important;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border-color);
+    padding: 0.6rem 0;
+    transition: var(--transition);
+    z-index: 10000;
+}
+
+.site-nav .navbar-brand {
+    font-family: var(--font-sans) !important;
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--primary) !important;
+    letter-spacing: -0.02em;
+}
+
+.site-nav .nav-link {
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--text-secondary) !important;
+    padding: 0.5rem 0.85rem !important;
+    border-radius: 6px;
+    transition: var(--transition);
+    text-transform: none;
+    letter-spacing: 0;
+}
+
+.site-nav .nav-link:hover,
+.site-nav .nav-link.active {
+    color: var(--accent) !important;
+    background: var(--primary-lighter);
+}
+
+.site-nav .navbar-toggler {
+    border: 1px solid var(--border-color);
+    padding: 0.4rem 0.7rem;
+    font-size: 1.2rem;
+    color: var(--text-primary);
+}
+
+.site-nav .navbar-toggler:focus {
+    box-shadow: none;
+}
+
+/* ========================================
+   Hero / About Section
+   ======================================== */
+.hero-section {
+    padding: 7.5rem 0 3.5rem;
+    background: var(--bg-white);
+}
+
+.hero-grid {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 2.5rem;
+    align-items: start;
+}
+
+.avatar-img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: var(--shadow-md);
+    border: 4px solid var(--bg-white);
+    outline: 2px solid var(--border-color);
+}
+
+.hero-name {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 0.3rem;
+    letter-spacing: -0.02em;
+}
+
+.hero-tagline {
+    font-size: 1.05rem;
+    color: var(--accent);
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+.hero-meta {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    margin-bottom: 1rem;
+}
+
+.hero-meta i {
+    margin-right: 0.25rem;
+}
+
+.hero-links {
+    font-size: 0.95rem;
+    line-height: 1.8;
+}
+
+.hero-links img[src*="shields.io"] {
+    height: 22px;
+    margin-right: 4px;
+    margin-bottom: 6px;
+    transition: var(--transition);
+}
+
+.hero-links img[src*="shields.io"]:hover {
+    transform: translateY(-1px);
+}
+
+.hero-links p {
+    margin-bottom: 0.8rem;
+    color: var(--text-secondary);
+}
+
+.hero-links h4 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--primary);
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 2px solid var(--primary-lighter);
+    display: inline-block;
+}
+
+.hero-links ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0.8rem;
+}
+
+.hero-links ul li {
+    padding: 0.2rem 0;
+    color: var(--text-secondary);
+    position: relative;
+    padding-left: 1rem;
+}
+
+.hero-links ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.7rem;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--accent);
+}
+
+/* Mobile hero */
+@media screen and (max-width: 768px) {
+    .hero-section {
+        padding: 6rem 0 2rem;
+    }
+    .hero-grid {
+        grid-template-columns: 1fr;
+        text-align: center;
+        gap: 1.5rem;
+    }
+    .hero-photo {
+        display: flex;
+        justify-content: center;
+    }
+    .avatar-img {
+        width: 150px;
+        height: 150px;
+    }
+    .hero-name {
+        font-size: 1.6rem;
+    }
+    .hero-links h4 {
+        display: block;
+        text-align: left;
+    }
+    .hero-links ul li {
+        text-align: left;
+    }
+}
+
+/* ========================================
+   Content Sections
+   ======================================== */
+.content-section {
+    padding: 3.5rem 0;
+}
+
+.content-section.bg-light {
+    background: var(--bg-light) !important;
+}
+
+.section-title {
+    font-family: var(--font-sans) !important;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--primary);
+    margin-bottom: 2rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 3px solid var(--accent);
+    display: inline-block;
+}
+
+.section-title i {
+    color: var(--accent);
+    margin-right: 0.4rem;
+    font-size: 1.3rem;
+}
+
+/* Main body text */
+.main-body {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.85;
+    color: var(--text-secondary);
+}
+
+.main-body h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--primary);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.main-body h4 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--primary-light);
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.main-body strong {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.main-body ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.main-body ul li {
+    position: relative;
+    padding: 0.6rem 0 0.6rem 1.2rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.main-body ul li:last-child {
+    border-bottom: none;
+}
+
+.main-body ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 1rem;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+}
+
+.main-body hr {
+    border: none;
+    border-top: 1px solid var(--border-color);
+    margin: 2rem 0;
+}
+
+.main-body a {
+    font-weight: 500;
+}
+
+/* Publication links styling */
+.main-body a[href*="doi.org"],
+.main-body a[href*="arxiv"],
+.main-body a[href*="github.com"],
+.main-body a[href*="springer"],
+.main-body a[href*="sciencedirect"],
+.main-body a[href*="amazon"],
+.main-body a[href*="ssrn"] {
+    display: inline-block;
+    padding: 0.15rem 0.55rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border-radius: 4px;
+    background: var(--primary-lighter);
+    color: var(--accent);
+    margin-left: 2px;
+    transition: var(--transition);
+}
+
+.main-body a[href*="doi.org"]:hover,
+.main-body a[href*="arxiv"]:hover,
+.main-body a[href*="github.com"]:hover,
+.main-body a[href*="springer"]:hover,
+.main-body a[href*="sciencedirect"]:hover,
+.main-body a[href*="amazon"]:hover,
+.main-body a[href*="ssrn"]:hover {
+    background: var(--accent);
+    color: white;
+}
+
+/* ========================================
+   Research Cards
+   ======================================== */
+.main-body .research-card {
+    background: var(--bg-white);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    transition: var(--transition);
+}
+
+.main-body .research-card:hover {
+    box-shadow: var(--shadow-md);
+    border-color: var(--accent);
+}
+
+/* ========================================
+   Project Cards (styled via markdown)
+   ======================================== */
+.main-body table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    margin-bottom: 1.5rem;
+}
+
+.main-body table thead {
+    background: var(--primary);
+    color: white;
+}
+
+.main-body table th {
+    padding: 0.75rem 1rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-align: left;
+}
+
+.main-body table td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 0.95rem;
+}
+
+.main-body table tbody tr:hover {
+    background: var(--primary-lighter);
+}
+
+.main-body table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+/* ========================================
+   Service / Reviewer - tag style
+   ======================================== */
+#service-md ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0;
+}
+
+#service-md ul li {
+    border: none;
+    padding: 0;
+    display: inline-block;
+}
+
+#service-md ul li::before {
+    display: none;
+}
+
+#service-md ul li strong,
+#service-md ul li {
+    display: inline-block;
+    background: var(--bg-white);
+    border: 1px solid var(--border-color);
+    padding: 0.4rem 0.9rem;
+    border-radius: 20px;
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    transition: var(--transition);
+}
+
+#service-md ul li:hover,
+#service-md ul li strong:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--primary-lighter);
+}
+
+/* ========================================
+   News section timeline style
+   ======================================== */
+#news-md ul li {
+    padding-left: 1.5rem;
+    border-left: 2px solid var(--accent);
+    border-bottom: none;
+    margin-bottom: 0.8rem;
+    padding-bottom: 0.8rem;
+}
+
+#news-md ul li::before {
+    left: -6px;
+    top: 0.6rem;
+    width: 10px;
+    height: 10px;
+    background: var(--accent);
+    border: 2px solid var(--bg-white);
+    box-shadow: 0 0 0 2px var(--accent);
+}
+
+/* ========================================
+   Awards section
+   ======================================== */
+#awards-md h3 {
+    display: inline-block;
+    padding-bottom: 0.3rem;
+    border-bottom: 2px solid var(--primary-lighter);
+}
+
+/* ========================================
+   Footer
+   ======================================== */
+.site-footer {
+    background: var(--primary);
+    color: rgba(255,255,255,0.7);
+    font-size: 0.88rem;
+}
+
+.site-footer a {
+    color: rgba(255,255,255,0.85);
+    transition: var(--transition);
+}
+
+.site-footer a:hover {
+    color: white;
+}
+
+.footer-links {
+    margin-top: 0.3rem;
+}
+
+.footer-links i {
+    margin-right: 0.2rem;
+}
+
+/* ========================================
+   Scrollbar
+   ======================================== */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-light);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--text-muted);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--text-secondary);
+}
+
+/* ========================================
+   Animations (subtle)
+   ======================================== */
+.content-section {
+    animation: fadeInUp 0.5s ease-out;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* ========================================
+   Print
+   ======================================== */
+@media print {
+    .site-nav, .site-footer {
+        display: none;
+    }
+    .hero-section {
+        padding-top: 1rem;
+    }
+    .content-section {
+        padding: 1rem 0;
+    }
+}

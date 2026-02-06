@@ -1,0 +1,25 @@
+### Reviewer for Scientific Journals
+
+- Journal of Advanced Research
+- Journal of Big Data
+- Engineering Applications of Artificial Intelligence
+- Expert Systems With Applications
+- Knowledge-Based Systems
+- Applied Soft Computing
+- Swarm and Evolutionary Computation
+- Scientific Reports
+- The Journal of Computation Design and Engineering
+- BioData Mining
+- Computers in Biology and Medicine
+- Signal, Image and Video Processing
+- Cluster Computing
+- Journal of Supercomputing
+- Discover Applied Sciences
+- Earth Science Informatics
+- Discover Computing
+- Polymer Bulletin
+- Journal of Agriculture and Food Research
+- Applied Food Research
+- Annals of Mathematics and Artificial Intelligence
+- Automated Software Engineering
+- Network Modeling Analysis in Health Informatics and Bioinformatics
