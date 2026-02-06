@@ -16,7 +16,7 @@
 
 -----
 
-### Patents
+### Patents &ensp; [![Google Patents](https://img.shields.io/badge/Google%20Patents-View%20All-4285F4?logo=google&logoColor=white)](https://patents.google.com/?inventor=%E8%BF%9E%E4%BF%8A%E5%8D%9A)
 
 - **A surface damage detection system and method for the white pear** (CN202211264437.7)
 - **A damage detection system and method for the white pear** (CN202211264436.2)

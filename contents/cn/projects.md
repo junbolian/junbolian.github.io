@@ -16,7 +16,7 @@
 
 -----
 
-### 专利
+### 专利 &ensp; [![Google Patents](https://img.shields.io/badge/Google%20Patents-查看全部-4285F4?logo=google&logoColor=white)](https://patents.google.com/?inventor=%E8%BF%9E%E4%BF%8A%E5%8D%9A)
 
 - **一种白梨表面损伤检测系统及方法** (CN202211264437.7)
 - **一种白梨损伤检测系统及方法** (CN202211264436.2)
