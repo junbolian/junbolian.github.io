@@ -1,6 +1,17 @@
 ### 技术技能
 
-**编程语言与工具：** Python, MATLAB, C/C++, SQL, R, SPSS, Docker, Gurobi, Hadoop, LaTeX
+<div class="skill-pills">
+<span class="skill-pill">Python</span>
+<span class="skill-pill">MATLAB</span>
+<span class="skill-pill">C/C++</span>
+<span class="skill-pill">SQL</span>
+<span class="skill-pill">R</span>
+<span class="skill-pill">SPSS</span>
+<span class="skill-pill">Docker</span>
+<span class="skill-pill">Gurobi</span>
+<span class="skill-pill">Hadoop</span>
+<span class="skill-pill">LaTeX</span>
+</div>
 
 ### 资格证书
 
@@ -16,4 +27,4 @@
 - **自媒体运营** -- 运营抖音、微信公众号、小红书等AI科普和美食账号（粉丝总计10K+）
 - **国学易学** -- 热爱风水、八字、梅花易数、奇门遁甲等传统国学，擅长帮朋友看八字
 - **旅行** -- 足迹遍布美国、日本、新加坡、英国、马来西亚、印度尼西亚等地
-- **猫奴** -- 家有一猫，名叫"博士"
+- **铲屎官** -- 家有一猫，名叫"博士"

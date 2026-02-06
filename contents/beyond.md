@@ -1,6 +1,17 @@
 ### Technical Skills
 
-**Programming:** Python, MATLAB, C/C++, SQL, R, SPSS, Docker, Gurobi, Hadoop, LaTeX
+<div class="skill-pills">
+<span class="skill-pill">Python</span>
+<span class="skill-pill">MATLAB</span>
+<span class="skill-pill">C/C++</span>
+<span class="skill-pill">SQL</span>
+<span class="skill-pill">R</span>
+<span class="skill-pill">SPSS</span>
+<span class="skill-pill">Docker</span>
+<span class="skill-pill">Gurobi</span>
+<span class="skill-pill">Hadoop</span>
+<span class="skill-pill">LaTeX</span>
+</div>
 
 ### Certificates
 
