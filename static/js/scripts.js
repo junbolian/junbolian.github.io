@@ -55,16 +55,16 @@ const galleryData = {
 // Gallery category descriptions (EN / CN)
 const galleryDescriptions = {
     cook: {
-        en: '',
-        cn: ''
+        en: 'National Intermediate Chinese Cook — can prepare over 100 Chinese dishes.',
+        cn: '国家中级中式烹调师——擅长烹饪上百种中式菜肴。'
     },
     travel: {
-        en: '',
-        cn: ''
+        en: 'Visited the USA, Japan, Singapore, UK, Malaysia, Indonesia, and more.',
+        cn: '足迹遍布美国、日本、新加坡、英国、马来西亚、印度尼西亚等地。'
     },
     talkshow: {
-        en: '',
-        cn: ''
+        en: 'Enjoys performing stand-up comedy, with a talent for humor and storytelling.',
+        cn: '幽默风趣，喜欢讲脱口秀，经常登台表演。'
     },
     pet: {
         en: 'Cat "Dr." (博士) & Parrot "Niuniu" (妞妞) — Niuniu inspired the invention of the <a href="https://github.com/junbolian/PO">Parrot Optimizer (PO)</a>, recognized as an <em>ESI Hot Paper</em> (top 0.1%).',
