@@ -975,7 +975,7 @@ a:hover {
     border: 2px solid var(--border);
     border-radius: 2rem;
     background: var(--white);
-    color: var(--text-secondary);
+    color: #000000;
     font-size: 0.9rem;
     font-weight: 500;
     cursor: pointer;
