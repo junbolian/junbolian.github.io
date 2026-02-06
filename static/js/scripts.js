@@ -38,7 +38,7 @@ const galleryData = {
         '9aa4ad58ed34e18edfc462cce7715f50.jpg',
         'b4a19d7f13dc837bb2d4fc4909cfd728.jpg'
     ],
-    cat: [
+    pet: [
         '4a33e8bf20d4001d2696cb77e4eb6a2c.jpg',
         '4e809a57dee9586c19e6910e03b882b8.jpg',
         'e7fa75bf26fd2917cb6a66fd8af15fb1.jpg'
