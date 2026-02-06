@@ -192,6 +192,17 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
+    // Fetch citation stats from Semantic Scholar API (author ID: 2142241137)
+    fetch('https://api.semanticscholar.org/graph/v1/author/2142241137?fields=citationCount,hIndex,paperCount')
+        .then(r => r.json())
+        .then(author => {
+            const citEl = document.getElementById('stat-citations');
+            const hEl = document.getElementById('stat-hindex');
+            if (citEl && author.citationCount != null) citEl.textContent = author.citationCount;
+            if (hEl && author.hIndex != null) hEl.textContent = author.hIndex;
+        })
+        .catch(() => {});
+
     // Gallery tabs
     document.querySelectorAll('.gallery-tab').forEach(tab => {
         tab.addEventListener('click', () => {
