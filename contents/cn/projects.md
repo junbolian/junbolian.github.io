@@ -2,12 +2,12 @@
 
 | 项目 | 简介 | 链接 |
 |------|------|------|
+| **ReLoop** | LLM生成优化代码的行为验证系统 | [GitHub](https://github.com/junbolian/ReLoop) |
+| **TwistNet-2D** | 受TCN启发，用于纹理图像分类的螺旋扭曲网络，超越最新SOTA模型 | [GitHub](https://github.com/junbolian/TwistNet-2D) |
 | **Parrot Optimizer (PO)** | 仿生元启发式优化算法 | [GitHub](https://github.com/junbolian/PO) |
 | **Human Evolutionary Optimization Algorithm (HEOA)** | 基于人类社会行为的进化优化算法 | [GitHub](https://github.com/junbolian/HEOA) |
 | **Educational Competition Optimizer (ECO)** | 基于竞争的元启发式工程优化算法 | [GitHub](https://github.com/junbolian/ECO) |
 | **Twisted Convolutional Networks (TCN)** | 用于非空间数据分类的新型CNN架构 | [GitHub](https://github.com/junbolian/Twisted-Convolutional-Networks) |
-| **TwistNet-2D** | 用于纹理识别的螺旋扭曲网络 | [GitHub](https://github.com/junbolian/TwistNet-2D) |
-| **ReLoop** | LLM生成优化代码的行为验证系统 | [GitHub](https://github.com/junbolian/ReLoop) |
 | **Trend-Aware Mechanism** | 元启发式算法的通用增强机制 | [GitHub](https://github.com/junbolian/Trend-Aware-Mechanism) |
 | **IECO** | 改进的教育竞争优化器 | [GitHub](https://github.com/junbolian/IECO) |
 | **IKUN Mechanism** | 基于KD树密度引导的群体优化机制 | [GitHub](https://github.com/junbolian/IKUN-mechanism) |
