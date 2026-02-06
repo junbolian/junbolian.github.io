@@ -22,7 +22,7 @@
 
 -----
 
-#### Metaheuristic Algorithms & Swarm Intelligence
+#### Evolutionary Computation
 
   - **J.J. Lian**, Ouyang, K., Zhong, R., Zhang, Y., & Chen, H.\# (2026). IKUN: A mean-field game theoretic KD-tree density guided mechanism for swarm optimization. **Information Sciences** (Under Review). [[Code]](https://github.com/junbolian/IKUN-mechanism)
 
@@ -31,6 +31,8 @@
   - Xiao, W., **J.J. Lian**, Ouyang, K.\#, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2026). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. **Biomedical Signal Processing and Control Journal**. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1746809425016957) [[Code]](https://github.com/oykc1234/NDO)
 
   - Ouyang, K., Hou, T., **J.J. Lian**, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J.\# (2026). Stochastic gradient-guided adaptive differential evolution. **Artificial Intelligence in Medicine** (Under Review). [[Code]](https://github.com/oykc1234/EFS-ML)
+
+  - **J.J. Lian**, M. Yu, K. Ouyang, S. Fu, R. Zhong, Y. Zhang, J. Zhang, H. Chen (2025). OPAL: Operator-Programmed Algorithms for Landscape-Aware Black-Box Optimization. **arXiv preprint arXiv:2512.12809**. [[Paper]](https://arxiv.org/abs/2512.12809) [[Code]](https://github.com/junbolian/OPAL)
 
   - X. Tang\*, **J.J. Lian\#\***, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen\# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. **Journal of Big Data**. [[Paper]](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-025-01260-0) [[Code]](https://github.com/junbolian/IECO)
 

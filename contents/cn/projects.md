@@ -20,6 +20,7 @@
 |------|------|------|
 | **ReLoop** | LLM生成优化代码的行为验证系统 | [GitHub](https://github.com/junbolian/ReLoop) |
 | **TwistNet-2D** | 受TCN启发，用于纹理图像分类的螺旋扭曲网络，超越最新SOTA模型 | [GitHub](https://github.com/junbolian/TwistNet-2D) |
+| **OPAL** | 面向景观感知黑箱优化的算子编程算法 | [GitHub](https://github.com/junbolian/OPAL) |
 | **Parrot Optimizer (PO)** | 仿生元启发式优化算法 | [GitHub](https://github.com/junbolian/PO) |
 | **Human Evolutionary Optimization Algorithm (HEOA)** | 基于人类社会行为的进化优化算法 | [GitHub](https://github.com/junbolian/HEOA) |
 | **Educational Competition Optimizer (ECO)** | 基于竞争的元启发式工程优化算法 | [GitHub](https://github.com/junbolian/ECO) |
@@ -34,6 +35,6 @@
 
 ### 科研基金
 
-- **国家级大学生创新创业训练计划项目**，2023-2025，已结题。项目编号：202310341080X。课题：基于算法优化多AI协作模型的中草药早期霉变检测方法研究。
+- **国家级大学生创新创业训练计划项目**<br>2023-2025，已结题。项目编号：202310341080X。<br>课题：基于算法优化多AI协作模型的中草药早期霉变检测方法研究。
 
-- **浙江省大学生科研训练计划项目**，2023-2024，已结题。项目编号：2023R412012。课题：可视化AI技术体系的构建及其在中药材品质检测中的应用。
+- **浙江省大学生科研训练计划项目**<br>2023-2024，已结题。项目编号：2023R412012。<br>课题：可视化AI技术体系的构建及其在中药材品质检测中的应用。

@@ -20,6 +20,7 @@
 |---------|-------------|-------|
 | **ReLoop** | Behavioral verification for LLM-generated optimization code | [GitHub](https://github.com/junbolian/ReLoop) |
 | **TwistNet-2D** | Spiral twisting network for texture image classification, surpassing SOTA models | [GitHub](https://github.com/junbolian/TwistNet-2D) |
+| **OPAL** | Operator-Programmed Algorithms for Landscape-Aware Black-Box Optimization | [GitHub](https://github.com/junbolian/OPAL) |
 | **Parrot Optimizer (PO)** | A nature-inspired metaheuristic optimization algorithm | [GitHub](https://github.com/junbolian/PO) |
 | **Human Evolutionary Optimization Algorithm (HEOA)** | Evolutionary optimization inspired by human social behavior | [GitHub](https://github.com/junbolian/HEOA) |
 | **Educational Competition Optimizer (ECO)** | Competition-based metaheuristic for engineering optimization | [GitHub](https://github.com/junbolian/ECO) |
@@ -34,6 +35,6 @@
 
 ### Research Grants
 
-- **National College Students Innovation and Entrepreneurship Training**, 2023-2025, Completed. Grant No: 202310341080X. Topic: Research on early mold detection method of Chinese herbal medicine based on algorithm optimization of multi-AI collaborative model.
+- **National College Students Innovation and Entrepreneurship Training**<br>2023-2025, Completed. Grant No: 202310341080X.<br>Topic: Research on early mold detection method of Chinese herbal medicine based on algorithm optimization of multi-AI collaborative model.
 
-- **College Student Research Programme of Zhejiang Province**, 2023-2024, Completed. Grant No: 2023R412012. Topic: Construction of visualized AI technology system and its application in quality inspection of Chinese herbal medicines.
+- **College Student Research Programme of Zhejiang Province**<br>2023-2024, Completed. Grant No: 2023R412012.<br>Topic: Construction of visualized AI technology system and its application in quality inspection of Chinese herbal medicines.
