@@ -1,6 +1,6 @@
 *(\* denotes equal contribution, \# denotes Corresponding Author)* &ensp; [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20All-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=swfyyjkAAAAJ)
 
-#### Operations Research
+#### Operations Research & Operation Management
 
   - **J.J. Lian**, C. Zhang, C.-P. Teo\# (2026). Multiproduct Pricing with Reference Bands and Guardrails: Evidence from On-Demand Pharmacy Retail (Draft in Preparation).
 

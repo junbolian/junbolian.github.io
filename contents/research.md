@@ -1,6 +1,6 @@
 My research spans multiple areas of machine learning, optimization, and applied AI. Below are the key directions:
 
-#### Operations Research & Optimization
+#### Operations Research & Operation Management
 Data-driven pricing strategies, inventory management, supply chain management, and platform economics. Combining mathematical modeling with machine learning for decision-making under uncertainty.
 
 #### Generative AI, LLMs & Computer Vision

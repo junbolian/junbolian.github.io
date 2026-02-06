@@ -1,6 +1,6 @@
 *(\* 表示同等贡献, \# 表示通讯作者)* &ensp; [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-查看全部-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=swfyyjkAAAAJ)
 
-#### 运筹学
+#### 运筹学与运营管理
 
   - **J.J. Lian**, C. Zhang, C.-P. Teo\# (2026). Multiproduct Pricing with Reference Bands and Guardrails: Evidence from On-Demand Pharmacy Retail (撰写中).
 
