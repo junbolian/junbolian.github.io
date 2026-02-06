@@ -14,5 +14,6 @@
 - **Stand-up Comedy** -- Enjoys performing stand-up comedy, with a talent for humor and storytelling
 - **Fitness & Sports** -- Fitness, free combat, swimming, basketball
 - **Content Creator** -- Operates Douyin, WeChat, and Xiaohongshu accounts on AI and cooking (10K+ followers)
+- **Chinese Metaphysics** -- Passionate about traditional Chinese studies including Feng Shui, BaZi (Four Pillars of Destiny), Meihua Yishu (Plum Blossom Numerology), and Qimen Dunjia; enjoys reading BaZi charts for friends
 - **Travel** -- Has visited the USA, Japan, Singapore, the UK, Malaysia, Indonesia, and more
 - **Cat Parent** -- Proud owner of a cat named "Dr." (博士)
