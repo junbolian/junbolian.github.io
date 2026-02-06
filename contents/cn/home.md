@@ -8,7 +8,7 @@
 **连俊博**，现就读于美国西北大学（Northwestern University）机器学习与数据科学（MLDS）硕士项目。本科毕业论文被评为*优秀毕业论文*。研究方向包括运筹学、人工智能生成内容（AIGC）、计算机视觉（CV）、进化计算和数学建模。凭借创业精神，他发明了中药材霉变检测系统，并创立了杭州博视维（Bossway）检测技术有限公司，获得了广泛的媒体报道。目前担任温州市布衣大药房（全国百强药品零售企业）首席分析官。担任多个国际知名期刊审稿人，包括 *Journal of Advanced Research*、*Engineering Applications of Artificial Intelligence*、*Scientific Reports*、*Expert Systems With Applications* 和 *Computers in Biology and Medicine* 等。已在 *Expert Systems with Applications*、*Applied Soft Computing*、*Computers in Biology and Medicine* 和 *International Journal of Systems Science* 等重要期刊发表多篇论文，其中两篇被认定为 *ESI 热点论文*（千分之一）、三篇被认定为 *ESI 高被引论文*（百分之一）。2024年获得*国家奖学金*，累计获得省级及以上奖项十余项。著有 *Generative Foundation Models: A Comprehensive Beginner's Handbook* 一书，已在亚马逊出版。
 
 #### 邮箱
-junbolian[at]qq.com &ensp;|&ensp; jacoblian[at]u.northwestern.edu
+[junbolian@qq.com](mailto:junbolian@qq.com) &ensp;|&ensp; [jacoblian@u.northwestern.edu](mailto:jacoblian@u.northwestern.edu)
 
 #### 教育经历
 - 硕士，[机器学习与数据科学（MLDS）](https://www.mccormick.northwestern.edu/machine-learning-data-science/)，美国西北大学，2025.09-2026.12（在读）
