@@ -71,7 +71,7 @@ const galleryDescriptions = {
         cn: '猫咪"博士" & 鹦鹉"妞妞" — 受妞妞启发发明了<a href="https://github.com/junbolian/PO">鹦鹉优化器（PO）</a>，论文被评为 <em>ESI 热点论文</em>（千分之一）。'
     },
     CAO: {
-        en: 'Chief Analytics Officer at Wenzhou Buyi Pharmacy, a national top-100 pharmaceutical retail enterprise.',
+        en: 'Chief Analytics Officer (CAO) at Wenzhou Buyi Pharmacy, a national TOP-100 pharmaceutical retail enterprise.',
         cn: '温州市布衣大药房（全国百强药品零售企业）首席分析官。'
     }
 };
