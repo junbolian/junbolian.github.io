@@ -22,4 +22,5 @@
 - [Applied Food Research](https://www.sciencedirect.com/journal/applied-food-research)
 - [Annals of Mathematics and Artificial Intelligence](https://www.springer.com/journal/10472)
 - [Automated Software Engineering](https://www.springer.com/journal/10515)
+- [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)
 - [Network Modeling Analysis in Health Informatics and Bioinformatics](https://www.springer.com/journal/13721)
