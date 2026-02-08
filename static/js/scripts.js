@@ -6,16 +6,22 @@ const section_names = ['home', 'research', 'publications', 'projects', 'awards',
 const galleryData = {
     cook: [
         '275459d76a2e109ba809240ab814d3b5.jpg',
+        '27f758759a5776c33fa8367616c9d8e8.jpg',
         '2886a081e21297f0d3a82c61fa9b02eb.jpg',
         '28c5ac4c5a88b0723c1d8501ddbdd5ff.jpg',
+        '31c74a11a0a2b486111785083d0aecca.jpg',
         '3b5bbdb5af2fa0dc2a59d729f112f679.jpg',
         '5956eccd9a92de6c2280e7cdb8aed6f0.jpg',
         '5a281e65f45a3c16b570ddd34250791b.jpg',
         '66d35ea19a5bfe37c83174cc8db59c21.jpg',
+        '6bc978dde12e0e9810869012c6c73831.jpg',
         '70457eadd7590879f51097d956b44b7d.jpg',
         '76ff3f5b4627b145c49844e163f3a400.jpg',
         'a3691fa48a78a7b39ff587c3388fabb2.jpg',
+        'b9c8c3d3d98a1cd0d1a0e059f7ed6891.jpg',
         'c81bb8648c696873d75f5612ad89c5ba.jpg',
+        'cbcb3573ba5aea1a18e40d9f0426edf0.jpg',
+        'dc12c5d8652a2fbde160ed2c42e23bab.jpg',
         'fc654290b4356a763ffc0a3936151786.jpg'
     ],
     travel: [
