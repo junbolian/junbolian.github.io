@@ -4,11 +4,11 @@
 
   - **J.J. Lian**, C. Zhang, C.-P. Teo\# (2026). Multiproduct Pricing with Reference Bands and Guardrails: Evidence from On-Demand Pharmacy Retail (Draft in Preparation).
 
+  - **Lian, J.J.**, Y. Sun, H. Chen, C. Zhang, C.-P. Teo (2026). ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization. **NeurIPS 2026** (In Progress). [[Paper]](https://arxiv.org/abs/2602.15983) [[Code]](https://github.com/junbolian/ReLoop)
+
 -----
 
 #### Generative AI, LLMs & Computer Vision
-
-  - **Lian, J.J.**, Y. Sun, H. Chen, C. Zhang, C.-P. Teo (2026). ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization. **NeurIPS 2026** (In Progress). [[Paper]](https://arxiv.org/abs/2602.15983) [[Code]](https://github.com/junbolian/ReLoop)
 
   - **Lian, J.J.**, F. Xiong, Y. Sun, H. Chen, K. Ouyang, Z. Ke, M. Yu, S. Fu, H. Chen (2026). TwistNet: Learning Second-Order Channel Interactions via Spiral Twisting for Texture Recognition. **ECCV 2026** (In Progress). [[Paper]](https://arxiv.org/abs/2602.07262) [[Code]](https://github.com/junbolian/TwistNet-2D)
 
