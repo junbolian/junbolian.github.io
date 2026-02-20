@@ -8,11 +8,9 @@
 
 #### Generative AI, LLMs & Computer Vision
 
-  - **Lian, J.J.**, Y. Sun, H. Chen, C. Zhang, C.-P. Teo (2026). ReLoop: Detecting Silent Failures in LLM-Generated Optimization Code via Behavioral Verification. **NeurIPS 2026** (In Progress). [[Code]](https://github.com/junbolian/ReLoop)
+  - **Lian, J.J.**, Y. Sun, H. Chen, C. Zhang, C.-P. Teo (2026). ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization. **NeurIPS 2026** (In Progress). [[Paper]](https://arxiv.org/abs/2602.15983) [[Code]](https://github.com/junbolian/ReLoop)
 
-  - **Lian, J.J.**, F. Xiong, Y. Sun, H. Chen, K. Ouyang, Z. Ke, M. Yu, S. Fu, H. Chen (2026). TwistNet: Learning Second-Order Channel Interactions via Spiral Twisting for Texture Recognition. **ECCV 2026** (In Progress). [[Code]](https://github.com/junbolian/TwistNet-2D)
-
-  - Chen, H., **J.J. Lian** (2026). KalHuman: A Frequency-Aware Kalman Framework for Two-Human Close Interaction Pose Estimation. **ECCV 2026** (In Progress).
+  - **Lian, J.J.**, F. Xiong, Y. Sun, H. Chen, K. Ouyang, Z. Ke, M. Yu, S. Fu, H. Chen (2026). TwistNet: Learning Second-Order Channel Interactions via Spiral Twisting for Texture Recognition. **ECCV 2026** (In Progress). [[Paper]](https://arxiv.org/abs/2602.07262) [[Code]](https://github.com/junbolian/TwistNet-2D)
 
   - **J.J. Lian**, Chen, H., Ouyang, K., Zhang, Y., Zhong, R., & Chen, H.\# (2026). Twisted convolutional networks (TCNs): Enhancing feature interactions for non-spatial data classification. **Neural Networks**. [[Paper]](https://doi.org/10.1016/j.neunet.2025.108451) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
 
