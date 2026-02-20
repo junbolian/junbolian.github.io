@@ -30,7 +30,7 @@
 
   - Ouyang, K., Hou, T., **J.J. Lian**, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J.\# (2026). Stochastic gradient-guided adaptive differential evolution. **Artificial Intelligence in Medicine** (Under Review). [[Code]](https://github.com/oykc1234/EFS-ML)
 
-  - **J.J. Lian**, M. Yu, K. Ouyang, S. Fu, R. Zhong, Y. Zhang, J. Zhang, H. Chen (2025). OPAL: Operator-Programmed Algorithms for Landscape-Aware Black-Box Optimization. **IEEE Transactions on Evolutionary Computation** (Under Review). [[Paper]](https://arxiv.org/abs/2512.12809) [[Code]](https://github.com/junbolian/OPAL)
+  - **J.J. Lian**, M. Yu, K. Ouyang, S. Fu, R. Zhong, Y. Zhang, J. Zhang, H. Chen (2025). OPAL: Operator-Programmed Algorithms for Landscape-Aware Black-Box Optimization. **arXiv**. [[Paper]](https://arxiv.org/abs/2512.12809) [[Code]](https://github.com/junbolian/OPAL)
 
   - X. Tang\*, **J.J. Lian\#\***, L. Ma, X. Wu, R. Zhong, Y. Zhang, H. Chen\# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. **Journal of Big Data**. [[Paper]](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-025-01260-0) [[Code]](https://github.com/junbolian/IECO)
 
