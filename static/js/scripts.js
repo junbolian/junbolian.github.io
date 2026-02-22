@@ -22,7 +22,13 @@ const galleryData = {
         'c81bb8648c696873d75f5612ad89c5ba.jpg',
         'cbcb3573ba5aea1a18e40d9f0426edf0.jpg',
         'dc12c5d8652a2fbde160ed2c42e23bab.jpg',
-        'fc654290b4356a763ffc0a3936151786.jpg'
+        'fc654290b4356a763ffc0a3936151786.jpg',
+        '000796d4bb79706e2a0c253bc663b571.jpg',
+        '47aaf957d98b7bfed19fc3d21944b3a1.jpg',
+        '53886b2f0f80e5eea1dcba9207e9c05d.jpg',
+        '67d534db42d84e4a48592b3f5974eafc.jpg',
+        '7896754ac3138ed6b3a9ee9bbce1e8e1.jpg',
+        'd54980503d37168c49e748aa80fe7fa3.jpg'
     ],
     travel: [
         '19f7bdd2165cadf1b511006cf7801a53.jpg',
