@@ -261,6 +261,30 @@ a:hover {
     box-shadow: 0 3px 10px rgba(49, 130, 206, 0.3);
 }
 
+/* CV download button */
+.cv-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-top: 0.8rem;
+    padding: 0.45rem 1.2rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--accent);
+    background: var(--bg-white);
+    border: 1.5px solid var(--accent);
+    border-radius: 2rem;
+    transition: var(--transition);
+    text-decoration: none;
+}
+
+.cv-btn:hover {
+    color: #ffffff;
+    background: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 3px 10px rgba(49, 130, 206, 0.3);
+}
+
 .hero-name {
     font-size: 1.9rem;
     font-weight: 700;
