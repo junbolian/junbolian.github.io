@@ -22,7 +22,7 @@
 
 #### Evolutionary Computation
 
-  - **J.J. Lian**, Ouyang, K., Zhong, R., Zhang, Y., & Chen, H.\# (2026). IKUN: A mean-field game theoretic KD-tree density guided mechanism for swarm optimization. **Information Sciences** (Under Review). [[Code]](https://github.com/junbolian/IKUN-mechanism)
+  - **J.J. Lian**, Yu, M., Ouyang, K., Fu, S., Zhong, R., Zhang, Y., & Chen, H.\# (2026). IKUN: A mean-field game theoretic KD-tree density guided mechanism for swarm optimization. **Information Sciences**. [[Code]](https://github.com/junbolian/IKUN-mechanism)
 
   - **J.J. Lian**, Ouyang, K., Zhang, Y., Zhong, R., Chen, H., Zheng, Z., Sun, Y., Chen, H.\#. (2026). Competitive Cluster Elimination (CCE) for large-scale swarm optimization. **Applied Soft Computing** (Under Review). [[Code]](https://github.com/junbolian/Competitive-Cluster-Elimination)
 
