@@ -28,7 +28,7 @@
 
   - Xiao, W., **Lian, J.J.**, Ouyang, K.\#, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2026). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. **Biomedical Signal Processing and Control Journal**. [[论文]](https://www.sciencedirect.com/science/article/pii/S1746809425016957) [[代码]](https://github.com/oykc1234/NDO)
 
-  - Ouyang, K., Hou, T., **Lian, J.J.**, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J.\# (2026). Stochastic gradient-guided adaptive differential evolution. **Artificial Intelligence in Medicine** (审稿中). [[代码]](https://github.com/oykc1234/EFS-ML)
+  - Ouyang, K., Hou, T., **Lian, J.J.**, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J.\# (2026). Stochastic Gradient-guided Adaptive Differential Evolution: Algorithm and Its Application in the Diagnosis of COVID-19, Influenza, and Bacterial Pneumonia. **Artificial Intelligence in Medicine** (审稿中). [[代码]](https://github.com/oykc1234/EFS-ML)
 
   - **Lian, J.J.**, Yu, M., Ouyang, K., Fu, S., Zhong, R., Zhang, Y., Zhang, J., Chen, H. (2025). OPAL: Operator-Programmed Algorithms for Landscape-Aware Black-Box Optimization. **arXiv**. [[论文]](https://arxiv.org/abs/2512.12809) [[代码]](https://github.com/junbolian/OPAL)
 
