@@ -10,7 +10,7 @@
 
 #### 生成式AI、大语言模型与计算机视觉
 
-  - **Lian, J.J.**, Xiong, F., Sun, Y., Chen, H., Ouyang, K., Ke, Z., Yu, M., Fu, S., Chen, H. (2026). TwistNet: Learning Second-Order Channel Interactions via Spiral Twisting for Texture Recognition. **ECCV 2026** (进行中). [[论文]](https://arxiv.org/abs/2602.07262) [[代码]](https://github.com/junbolian/TwistNet-2D)
+  - **Lian, J.J.**, Xiong, F., Sun, Y., Chen, H., Ouyang, K., Ke, Z., Yu, M., Fu, S., Chen, H. (2026). TwistNet-2D: Learning Second-Order Channel Interactions via Spiral Twisting for Texture Recognition. **ECCV 2026** (进行中). [[论文]](https://arxiv.org/abs/2602.07262) [[代码]](https://github.com/junbolian/TwistNet-2D)
 
   - **Lian, J.J.**, Chen, H., Ouyang, K., Zhang, Y., Zhong, R., & Chen, H.\# (2026). Twisted convolutional networks (TCNs): Enhancing feature interactions for non-spatial data classification. **Neural Networks**. [[论文]](https://doi.org/10.1016/j.neunet.2025.108451) [[代码]](https://github.com/junbolian/Twisted-Convolutional-Networks)
 
