@@ -36,11 +36,11 @@
 
   - **Lian, J.J.**, Ouyang, K., Zhong, R., Zhang, Y., Luo, S., Ma, L., Wu, X., Chen, H.\# (2025). Trend-Aware Mechanism for Metaheuristic Algorithms. **Applied Soft Computing**. [[Paper]](https://doi.org/10.1016/j.asoc.2025.113505) [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
 
-  - Zhong, R., Wang, Z., Zhang, Y., **Lian, J.J.**, Yu, J., & Chen, H.\# (2025). Integrating Competitive Framework into Differential Evolution. **Applied Soft Computing**. [[Paper]](https://doi.org/10.1016/j.asoc.2025.112995)
+  - Zhong, R., Wang, Z., Zhang, Y., **Lian, J.J.**, Yu, J., & Chen, H.\# (2025). Integrating Competitive Framework into Differential Evolution: Comprehensive performance analysis and application in brain tumor detection. **Applied Soft Computing**. [[Paper]](https://doi.org/10.1016/j.asoc.2025.112995)
 
-  - Zhao, J., Zhang, Y., Zhong, R., Chen, H., **Lian, J.J.**, & Gao, Z.-M.\# (2025). A Paradigm of Evolutionary Manytasking Optimization for Solving Nonlinear Equation Systems. **Expert Systems with Applications**. [[Paper]](https://doi.org/10.1016/j.eswa.2025.129459)
+  - Zhao, J., Zhang, Y., Zhong, R., Chen, H., **Lian, J.J.**, & Gao, Z.-M.\# (2025). A paradigm of evolutionary manytasking optimization for solving nonlinear equation systems: A two-stage framework with adaptive knowledge transfer, sharing and hybrid resource sampling. **Expert Systems with Applications**. [[Paper]](https://doi.org/10.1016/j.eswa.2025.129459)
 
-  - Zhang, Y., Gong, W., Zhong, R., Chen, H., Yu, J., **Lian, J.J.**, Zhao, J., & Gao, Z.-M.\# (2025). Advanced Design for Nonlinear Photovoltaic System Problems. **Swarm and Evolutionary Computation**. [[Paper]](https://doi.org/10.1016/j.swevo.2025.102179)
+  - Zhang, Y., Gong, W., Zhong, R., Chen, H., Yu, J., **Lian, J.J.**, Zhao, J., & Gao, Z.-M.\# (2025). Advanced design for nonlinear photovoltaic system problems: A co-evolutionary framework based on a decomposition approach. **Swarm and Evolutionary Computation**. [[Paper]](https://doi.org/10.1016/j.swevo.2025.102179)
 
   - **Lian, J.J.**, Zhu, T., Ma, L., Wu, X., Heidari, A.A., Chen, Y., Chen, H.\#, Hui, G.\# (2024). The Educational Competition Optimizer. **International Journal of Systems Science**. [[Paper]](https://doi.org/10.1080/00207721.2024.2367079) [[Code]](https://github.com/junbolian/ECO)
 
@@ -52,10 +52,10 @@
 
 #### AI in Food & Agriculture Engineering
 
-  - **Lian, J.J.\#**, Wu, P., Han, W., Xie, Y., Zheng, Y., Xu, Y., ... & Hui, G. (2025). Discrimination of Chinese prickly ash origin place using electronic nose system. **Cogent Food & Agriculture**. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/23311932.2025.2464939) [[Code]](https://github.com/junbolian/SVBM)
+  - **Lian, J.J.\#**, Wu, P., Han, W., Xie, Y., Zheng, Y., Xu, Y., ... & Hui, G. (2025). Discrimination of Chinese prickly ash origin place using electronic nose system and feature extraction with support vector boosting machine. **Cogent Food & Agriculture**. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/23311932.2025.2464939) [[Code]](https://github.com/junbolian/SVBM)
 
   - Zhu, T., Wu, X., Ma, L., Zeng, Y., **Lian, J.J.**, Liu, J., Chen, X., Zhong, L., Chang, J., Hui, G.\# (2024). Rapid mold detection in chinese herbal medicine using enhanced deep learning technology. **Journal of Medicinal Food**. [[Paper]](https://doi.org/10.1089/jmf.2024.k.0004)
 
-  - **Lian, J.J.**, Zhang, J., Liu, Q., Zhu, R., Ning, J., Xiong, S., Hui, G.\#, Gao, Y., Lou, X. (2023). Visualized Pattern Recognition Optimization for Apple Mechanical Damage. **International Journal of Food Properties**. [[Paper]](https://doi.org/10.1080/10942912.2023.2221404)
+  - **Lian, J.J.**, Zhang, J., Liu, Q., Zhu, R., Ning, J., Xiong, S., Hui, G.\#, Gao, Y., Lou, X. (2023). Visualized pattern recognition optimization for apple mechanical damage by laser relaxation spectroscopy. **International Journal of Food Properties**. [[Paper]](https://doi.org/10.1080/10942912.2023.2221404)
 
-  - Zhou, W., **Lian, J.J.**, Zhang, J., Mei, Z., Gao, Y., Hui, G.\# (2023). Tomato Storage Quality Predicting Method Based on Portable Electronic Nose System. **Journal of Food Measurement and Characterization**. [[Paper]](https://doi.org/10.1007/s11694-023-01865-0)
+  - Zhou, W., **Lian, J.J.**, Zhang, J., Mei, Z., Gao, Y., Hui, G.\# (2023). Tomato storage quality predicting method based on portable electronic nose system combined with WOA-SVM model. **Journal of Food Measurement and Characterization**. [[Paper]](https://doi.org/10.1007/s11694-023-01865-0)
