@@ -1,5 +1,5 @@
 [![GitHub](https://img.shields.io/badge/junbolian-github-blue?logo=github)](https://github.com/junbolian)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junbo-lian-67a163358)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junbo-lian/)
 [![Email](https://img.shields.io/badge/Email-jacoblian@u.northwestern.edu-blue)](mailto:jacoblian@u.northwestern.edu)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7602--0022-brightgreen?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7602-0022)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.co.uk/citations?user=swfyyjkAAAAJ&hl)
