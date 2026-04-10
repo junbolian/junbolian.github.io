@@ -38,6 +38,8 @@
 
   - Zhong, R., Wang, Z., Zhang, Y., **Lian, J.J.**, Yu, J., & Chen, H.\# (2025). Integrating Competitive Framework into Differential Evolution: Comprehensive performance analysis and application in brain tumor detection. **Applied Soft Computing**. [[论文]](https://doi.org/10.1016/j.asoc.2025.112995)
 
+  - Zhong, R., Wang, Z., Xiao, Y., Zhang, Y., **Lian, J.J.**, Yu, J., Cai, Z., Pan, Z., Chen, H., & Yu, S.\# (2026). Parameter adaptive competitive differential evolution with local search. **Applied Intelligence**. [[论文]](https://link.springer.com/article/10.1007/s10489-026-07141-0) [[代码]](https://github.com/RuiZhong961230/PaCDE-DLS)
+
   - Zhao, J., Zhang, Y., Zhong, R., Chen, H., **Lian, J.J.**, & Gao, Z.-M.\# (2025). A paradigm of evolutionary manytasking optimization for solving nonlinear equation systems: A two-stage framework with adaptive knowledge transfer, sharing and hybrid resource sampling. **Expert Systems with Applications**. [[论文]](https://doi.org/10.1016/j.eswa.2025.129459)
 
   - Zhang, Y., Gong, W., Zhong, R., Chen, H., Yu, J., **Lian, J.J.**, Zhao, J., & Gao, Z.-M.\# (2025). Advanced design for nonlinear photovoltaic system problems: A co-evolutionary framework based on a decomposition approach. **Swarm and Evolutionary Computation**. [[论文]](https://doi.org/10.1016/j.swevo.2025.102179)
