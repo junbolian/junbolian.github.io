@@ -30,6 +30,8 @@
 
   - Ouyang, K., Hou, T., **Lian, J.J.**, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J.\# (2026). Stochastic Gradient-guided Adaptive Differential Evolution: Algorithm and Its Application in the Diagnosis of COVID-19, Influenza, and Bacterial Pneumonia. **Artificial Intelligence in Medicine** (审稿中). [[代码]](https://github.com/oykc1234/EFS-ML)
 
+  - Zhong, R., Wang, Z., Xiao, Y., Zhang, Y., **Lian, J.J.**, Yu, J., Cai, Z., Pan, Z., Chen, H., & Yu, S.\# (2026). Parameter adaptive competitive differential evolution with local search. **Applied Intelligence**. [[论文]](https://link.springer.com/article/10.1007/s10489-026-07141-0) [[代码]](https://github.com/RuiZhong961230/PaCDE-DLS)
+
   - **Lian, J.J.**, Yu, M., Ouyang, K., Fu, S., Zhong, R., Zhang, Y., Zhang, J., Chen, H. (2025). OPAL: Operator-Programmed Algorithms for Landscape-Aware Black-Box Optimization. **arXiv**. [[论文]](https://arxiv.org/abs/2512.12809) [[代码]](https://github.com/junbolian/OPAL)
 
   - Tang, X.\*, **Lian, J.J.\#\***, Ma, L., Wu, X., Zhong, R., Zhang, Y., Chen, H.\# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. **Journal of Big Data**. [[论文]](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-025-01260-0) [[代码]](https://github.com/junbolian/IECO)
@@ -37,8 +39,6 @@
   - **Lian, J.J.**, Ouyang, K., Zhong, R., Zhang, Y., Luo, S., Ma, L., Wu, X., Chen, H.\# (2025). Trend-Aware Mechanism for Metaheuristic Algorithms. **Applied Soft Computing**. [[论文]](https://doi.org/10.1016/j.asoc.2025.113505) [[代码]](https://github.com/junbolian/Trend-Aware-Mechanism)
 
   - Zhong, R., Wang, Z., Zhang, Y., **Lian, J.J.**, Yu, J., & Chen, H.\# (2025). Integrating Competitive Framework into Differential Evolution: Comprehensive performance analysis and application in brain tumor detection. **Applied Soft Computing**. [[论文]](https://doi.org/10.1016/j.asoc.2025.112995)
-
-  - Zhong, R., Wang, Z., Xiao, Y., Zhang, Y., **Lian, J.J.**, Yu, J., Cai, Z., Pan, Z., Chen, H., & Yu, S.\# (2026). Parameter adaptive competitive differential evolution with local search. **Applied Intelligence**. [[论文]](https://link.springer.com/article/10.1007/s10489-026-07141-0) [[代码]](https://github.com/RuiZhong961230/PaCDE-DLS)
 
   - Zhao, J., Zhang, Y., Zhong, R., Chen, H., **Lian, J.J.**, & Gao, Z.-M.\# (2025). A paradigm of evolutionary manytasking optimization for solving nonlinear equation systems: A two-stage framework with adaptive knowledge transfer, sharing and hybrid resource sampling. **Expert Systems with Applications**. [[论文]](https://doi.org/10.1016/j.eswa.2025.129459)
 
