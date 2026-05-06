@@ -11,7 +11,7 @@
 [junbolian@qq.com](mailto:junbolian@qq.com) &ensp;|&ensp; [jacoblian@u.northwestern.edu](mailto:jacoblian@u.northwestern.edu)
 
 #### Education
-- Ph.D., Operations Research and Analytics, National University of Singapore, Singapore, 2027.01-2030.06 (Expected).
+- Ph.D., [Operations Research and Analytics](https://iora.nus.edu.sg/), National University of Singapore, Singapore, 2027.01-2030.06 (Expected).
 - M.S., [Machine Learning and Data Science (MLDS)](https://www.mccormick.northwestern.edu/machine-learning-data-science/), Northwestern University, USA, 2025.09-2026.12 (Expected).
 - B.S., Data Science and Big Data Technology, Zhejiang A&F University, China, 2021.09-2025.06.
 

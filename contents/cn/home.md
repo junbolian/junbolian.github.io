@@ -11,7 +11,7 @@
 [junbolian@qq.com](mailto:junbolian@qq.com) &ensp;|&ensp; [jacoblian@u.northwestern.edu](mailto:jacoblian@u.northwestern.edu)
 
 #### 教育经历
-- 博士，运筹学与分析（Operations Research and Analytics），新加坡国立大学，2027.01-2030.06（预计）
+- 博士，[运筹学与分析（Operations Research and Analytics）](https://iora.nus.edu.sg/)，新加坡国立大学，2027.01-2030.06（预计）
 - 硕士，[机器学习与数据科学（MLDS）](https://www.mccormick.northwestern.edu/machine-learning-data-science/)，美国西北大学，2025.09-2026.12（在读）
 - 学士，数据科学与大数据技术，浙江农林大学，2021.09-2025.06
 
