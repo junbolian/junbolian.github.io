@@ -24,7 +24,7 @@
 
   - **Lian, J.J.**, Yu, M., Ouyang, K., Fu, S., Zhong, R., Zhang, Y., & Chen, H.\# (2026). IKUN: A mean-field game theoretic KD-tree density guided mechanism for swarm optimization. **Information Sciences**. [[Paper]](https://doi.org/10.1016/j.ins.2026.123347) [[Code]](https://github.com/junbolian/IKUN-mechanism)
 
-  - **Lian, J.J.**, Ouyang, K., Zhang, Y., Zhong, R., Chen, H., Zheng, Z., Sun, Y., Chen, H.\# (2026). Competitive Cluster Elimination (CCE) for large-scale swarm optimization. **Applied Soft Computing** (Under Review). [[Code]](https://github.com/junbolian/Competitive-Cluster-Elimination)
+  - **Lian, J.J.**, Ouyang, K., Zhang, Y., Zhong, R., Chen, H., Zheng, Z., Sun, Y., Chen, H.\# (2026). Competitive Cluster Elimination (CCE) for large-scale swarm optimization. **Applied Soft Computing**. [[Code]](https://github.com/junbolian/Competitive-Cluster-Elimination)
 
   - Xiao, W., **Lian, J.J.**, Ouyang, K.\#, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2026). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. **Biomedical Signal Processing and Control Journal**. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1746809425016957) [[Code]](https://github.com/oykc1234/NDO)
 
