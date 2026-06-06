@@ -2,7 +2,7 @@
 
 #### 运筹学与运营管理
 
-  - **Lian, J.J.**, Qin, H., Teo, C.-P.\# (2026). FaithOpt: Verifying the Faithfulness of LLM-Generated Optimization Models to Regulatory Constraints (撰写中).
+  - **Lian, J.J.**, Qin, H., Teo, C.-P.\# (2026). FaithOpt: Verifying the Faithfulness of LLM-Generated Optimization Models to Regulatory Constraints (撰写中). [[代码]](https://github.com/junbolian/FaithOpt)
 
   - **Lian, J.J.**, Sun, Y., Chen, H., Zhang, C., Teo, C.-P. (2026). ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization. **NeurIPS 2026** (进行中). [[论文]](https://arxiv.org/abs/2602.15983) [[代码]](https://github.com/junbolian/ReLoop)
 
