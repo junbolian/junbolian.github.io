@@ -6,7 +6,7 @@
 
   - **Lian, J.J.**, Qin, H., Teo, C.-P.\# (2026). Pricing Through a One-Way Mirror: The Private Value and Social Cost of Price Transparency (撰写中).
 
-  - **Lian, J.J.**, Sun, Y., Chen, H., Zhang, C., Teo, C.-P. (2026). ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization. **NeurIPS 2026** (进行中). [[论文]](https://arxiv.org/abs/2602.15983) [[代码]](https://github.com/junbolian/ReLoop)
+  - **Lian, J.J.**, Sun, Y., Chen, H., Zhang, C., Qin, H., Teo, C.-P. (2026). ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization. **NeurIPS 2026** (进行中). [[论文]](https://arxiv.org/abs/2602.15983) [[代码]](https://github.com/junbolian/ReLoop)
 
 -----
 
