@@ -24,3 +24,6 @@
 - [Automated Software Engineering](https://www.springer.com/journal/10515)
 - [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)
 - [Network Modeling Analysis in Health Informatics and Bioinformatics](https://www.springer.com/journal/13721)
+- [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
+- [Applied Intelligence](https://link.springer.com/journal/10489)
+- [International Journal of Computational Intelligence Systems](https://link.springer.com/journal/44196)
