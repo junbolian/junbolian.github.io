@@ -34,6 +34,8 @@
 
   - Zhong, R., Wang, Z., Xiao, Y., Zhang, Y., **Lian, J.J.**, Yu, J., Cai, Z., Pan, Z., Chen, H., & Yu, S.\# (2026). Parameter adaptive competitive differential evolution with local search. **Applied Intelligence**. [[Paper]](https://link.springer.com/article/10.1007/s10489-026-07141-0) [[Code]](https://github.com/RuiZhong961230/PaCDE-DLS)
 
+  - Zhong, R., Wang, Z., Yu, J., Zhang, Y., **Lian, J.J.**, Cai, Z., Pan, Z., Chen, H., & Yu, S.\# (2026). Multi-search pattern competitive swarm optimizer: performance investigation and application in coffee leaf disease diagnosis. **International Journal of Machine Learning and Cybernetics**. [[Paper]](https://doi.org/10.1007/s13042-026-03184-4)
+
   - **Lian, J.J.**, Yu, M., Ouyang, K., Fu, S., Zhong, R., Zhang, Y., Zhang, J., Chen, H. (2025). OPAL: Operator-Programmed Algorithms for Landscape-Aware Black-Box Optimization. **arXiv**. [[Paper]](https://arxiv.org/abs/2512.12809) [[Code]](https://github.com/junbolian/OPAL)
 
   - Tang, X.\*, **Lian, J.J.\#\***, Ma, L., Wu, X., Zhong, R., Zhang, Y., Chen, H.\# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. **Journal of Big Data**. [[Paper]](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-025-01260-0) [[Code]](https://github.com/junbolian/IECO)
