@@ -27,3 +27,6 @@
 - [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 - [Applied Intelligence](https://link.springer.com/journal/10489)
 - [International Journal of Computational Intelligence Systems](https://link.springer.com/journal/44196)
+- [Pattern Analysis and Applications](https://link.springer.com/journal/10044)
+- [CMC-Computers, Materials & Continua](https://www.techscience.com/journal/cmc)
+- [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)
