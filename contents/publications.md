@@ -2,11 +2,9 @@
 
 #### Operations Research & Operation Management
 
-  - **Lian, J.J.**, Qin, H., Teo, C.-P.\# (2026). FaithOpt: Verifying the Faithfulness of LLM-Generated Optimization Models to Regulatory Constraints (Draft in Preparation). [[Code]](https://github.com/junbolian/FaithOpt)
-
   - **Lian, J.J.**, Qin, H., Teo, C.-P.\# (2026). Pricing Through a One-Way Mirror: The Private Value and Social Cost of Price Transparency (Draft in Preparation).
 
-  - **Lian, J.J.**, Sun, Y., Chen, H., Zhang, C., Qin, H., Teo, C.-P. (2026). ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization. **NeurIPS 2026** (In Progress). [[Paper]](https://arxiv.org/abs/2602.15983) [[Code]](https://github.com/junbolian/ReLoop)
+  - **Lian, J.J.**, Sun, Y., Chen, H., Zhang, C., Qin, H., Teo, C.-P. (2026). ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization. **NeurIPS 2026**. [[Paper]](https://arxiv.org/abs/2602.15983) [[Code]](https://github.com/junbolian/ReLoop)
     - *Talks:* Production and Operations Management Society (POMS) China 2026, Xi'an, China
 
 -----
