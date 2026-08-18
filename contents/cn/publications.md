@@ -7,6 +7,8 @@
   - **Lian, J.J.**, Sun, Y., Chen, H., Zhang, C., Qin, H., Teo, C.-P. (2026). ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization. **NeurIPS 2026**. [[论文]](https://arxiv.org/abs/2602.15983) [[代码]](https://github.com/junbolian/ReLoop)
     - *学术报告：* Production and Operations Management Society (POMS) China 2026，中国西安
 
+  - **Lian, J.J.**, Chen, H., Qin, H., Teo, C.-P.\# (2026). Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling. **arXiv**. [[论文]](https://arxiv.org/abs/2608.15565)
+
 -----
 
 #### 生成式AI、大语言模型与计算机视觉
