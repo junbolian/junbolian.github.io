@@ -9,6 +9,8 @@
 
   - **Lian, J.J.**, Chen, H., Qin, H., Teo, C.-P.\# (2026). Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling. **arXiv**. [[Paper]](https://arxiv.org/abs/2608.15565) [[Code]](https://github.com/junbolian/AdmitOR)
 
+  - **Lian, J.J.**, Liu, X., Chen, Z., Zhang, C., Xu, Z.S. (2026). Routing through Traffic Signals: The Value, Depth, and Accuracy of Phase Information. **Transportation Science** (Under Review). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7368578) [[Code]](https://github.com/junbolian/signal-aware-routing)
+
 -----
 
 #### Generative AI, LLMs & Computer Vision
