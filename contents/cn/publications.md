@@ -2,7 +2,7 @@
 
 #### 运筹学与运营管理
 
-  - **Lian, J.J.**, Qin, H., Teo, C.-P.\# (2026). Pricing Through a One-Way Mirror: The Private Value and Social Cost of Price Transparency (撰写中).
+  - **Lian, J.J.**, Qin, H., Teo, C.-P.\# (2026). Price Transparency and Adaptive Pricing in Dual-Channel Retail (撰写中).
 
   - **Lian, J.J.**, Sun, Y., Chen, H., Zhang, C., Qin, H., Teo, C.-P. (2026). ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization. **NeurIPS 2026**. [[论文]](https://arxiv.org/abs/2602.15983) [[代码]](https://github.com/junbolian/ReLoop)
     - *学术报告：* Production and Operations Management Society (POMS) International Conference in China 2026，中国西安
@@ -15,7 +15,7 @@
 
 -----
 
-#### 计算机视觉
+#### 深度学习
 
   - **Lian, J.J.**, Xiong, F., Sun, Y., Chen, H., Ouyang, K., Ke, Z., Yu, M., Fu, S., Chen, H. (2026). TwistNet-2D: Learning Second-Order Channel Interactions via Spiral Twisting for Texture Recognition. **Pattern Recognition** (审稿中). [[论文]](https://arxiv.org/abs/2602.07262) [[代码]](https://github.com/junbolian/TwistNet-2D)
 
