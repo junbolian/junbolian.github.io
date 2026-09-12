@@ -1,9 +1,9 @@
 My research spans operations research, machine learning, and applied AI. Below are the key directions:
 
 #### Operations Research & Operation Management
-Data-driven pricing strategies, long-tail SKU decision-making, inventory and supply chain management, and platform economics. Combining mathematical modeling with large language models (LLMs) to support decision-making under uncertainty, with a focus on real-world deployment in retail. A central thread is making LLM-generated optimization models trustworthy enough to deploy — ReLoop for structured modeling and behavioral verification, and AdmitOR for label-free certification — so that models can be admitted or rejected without ground-truth answers and remain faithful to regulatory and business constraints. Recent work also extends to transportation and routing, including signal-aware routing that quantifies the value, depth, and accuracy of traffic phase information, as well as reliable execution and reusable certification of dual-sourcing inventory policies.
+Data-driven pricing strategies, long-tail SKU decision-making, inventory and supply chain management, and platform economics. Combining mathematical modeling with large language models (LLMs) to support decision-making under uncertainty, with a focus on real-world deployment in retail.
 
-#### Computer Vision
+#### Deep Learning
 Architectures for non-spatial and texture-based recognition. Designed Twisted Convolutional Networks (TCNs) for non-spatial data classification, and further developed TwistNet-2D for texture image classification, surpassing the latest state-of-the-art (SOTA) models.
 
 #### Evolutionary Computation
