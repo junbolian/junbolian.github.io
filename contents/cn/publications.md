@@ -21,6 +21,8 @@
 
   - **Lian, J.J.**, Chen, H., Ouyang, K., Zhang, Y., Zhong, R., & Chen, H.\# (2026). Twisted convolutional networks (TCNs): Enhancing feature interactions for non-spatial data classification. **Neural Networks**. [[论文]](https://doi.org/10.1016/j.neunet.2025.108451) [[代码]](https://github.com/junbolian/Twisted-Convolutional-Networks)
 
+  - Ma, L., Zhong, Q., Shi, S., Wei, H., Yang, S., **Lian, J.J.**, Hai, Q., et al. (2026). Cooperative Multi-View Graph Learning via High-Rank Tensor Specificity. **IJCAI-ECAI 2026**. [[论文]](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/1182.pdf)
+
   - **Lian, J.J.\#** (2025). Generative Foundation Models: A Comprehensive Beginner's Handbook. **Amazon**. [[预印本]](https://dx.doi.org/10.2139/ssrn.5259947)[[Amazon链接]](https://www.amazon.com/dp/B0F9FQ4JKH)
 
   - Luo, S., Zhang, Y., Zhang, Z., Guo, B., **Lian, J.J.**, Jiang, H., Zou, S., & Wang, W. (2025). EPDD-YOLO: An Efficient Benchmark for Pavement Damage Detection Based on Mamba-YOLO. **Measurement**. [[论文]](https://doi.org/10.1016/j.measurement.2025.117638)
@@ -40,6 +42,8 @@
   - Zhong, R., Wang, Z., Xiao, Y., Zhang, Y., **Lian, J.J.**, Yu, J., Cai, Z., Pan, Z., Chen, H., & Yu, S.\# (2026). Parameter adaptive competitive differential evolution with local search. **Applied Intelligence**. [[论文]](https://link.springer.com/article/10.1007/s10489-026-07141-0) [[代码]](https://github.com/RuiZhong961230/PaCDE-DLS)
 
   - Zhong, R., Wang, Z., Yu, J., Zhang, Y., **Lian, J.J.**, Cai, Z., Pan, Z., Chen, H., & Yu, S.\# (2026). Multi-search pattern competitive swarm optimizer: performance investigation and application in coffee leaf disease diagnosis. **International Journal of Machine Learning and Cybernetics**. [[论文]](https://doi.org/10.1007/s13042-026-03184-4)
+
+  - Yu, M., Zhang, J., **Lian, J.J.**, Feng, Y., Kong, D., Lu, H., Wei, X., & Xu, J.\# (2026). Pattern-aware multiobjective optimization with multimodal representations for UAV reconnaissance and task offloading. **Pattern Recognition**. [[论文]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326015530)
 
   - **Lian, J.J.**, Yu, M., Ouyang, K., Fu, S., Zhong, R., Zhang, Y., Zhang, J., Chen, H. (2025). OPAL: Operator-Programmed Algorithms for Landscape-Aware Black-Box Optimization. **arXiv**. [[论文]](https://arxiv.org/abs/2512.12809) [[代码]](https://github.com/junbolian/OPAL)
 
