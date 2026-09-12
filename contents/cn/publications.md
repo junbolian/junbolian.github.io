@@ -11,9 +11,11 @@
 
   - **Lian, J.J.**, Liu, X., Chen, Z., Zhang, C., Xu, Z.S. (2026). Routing through Traffic Signals: The Value, Depth, and Accuracy of Phase Information. **Transportation Science** (审稿中). [[论文]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7368578) [[代码]](https://github.com/junbolian/signal-aware-routing)
 
+  - **Lian, J.J.\#** (2026). Reliable Execution and Reusable Certification of Dual-Sourcing Inventory Policies. **SSRN**. [[论文]](https://dx.doi.org/10.2139/ssrn.7446638)
+
 -----
 
-#### 生成式AI、大语言模型与计算机视觉
+#### 计算机视觉
 
   - **Lian, J.J.**, Xiong, F., Sun, Y., Chen, H., Ouyang, K., Ke, Z., Yu, M., Fu, S., Chen, H. (2026). TwistNet-2D: Learning Second-Order Channel Interactions via Spiral Twisting for Texture Recognition. **Pattern Recognition** (审稿中). [[论文]](https://arxiv.org/abs/2602.07262) [[代码]](https://github.com/junbolian/TwistNet-2D)
 
