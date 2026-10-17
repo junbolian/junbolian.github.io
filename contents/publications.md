@@ -37,7 +37,7 @@
 
   - Xiao, W., **Lian, J.J.**, Ouyang, K.\#, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2026). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. **Biomedical Signal Processing and Control Journal**. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1746809425016957) [[Code]](https://github.com/oykc1234/NDO)
 
-  - Ouyang, K., Hou, T., **Lian, J.J.**, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J.\# (2026). Stochastic Gradient-guided Adaptive Differential Evolution: Algorithm and Its Application in the Diagnosis of COVID-19, Influenza, and Bacterial Pneumonia. **Artificial Intelligence in Medicine** (Under Review). [[Code]](https://github.com/oykc1234/EFS-ML)
+  - Ouyang, K., Hou, T., **Lian, J.J.**, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J.\# (2026). Stochastic Gradient-guided Adaptive Differential Evolution: Algorithm and Its Application in the Diagnosis of COVID-19, Influenza, and Bacterial Pneumonia. **Artificial Intelligence in Medicine** (Under Review).
 
   - Zhong, R., Wang, Z., Xiao, Y., Zhang, Y., **Lian, J.J.**, Yu, J., Cai, Z., Pan, Z., Chen, H., & Yu, S.\# (2026). Parameter adaptive competitive differential evolution with local search. **Applied Intelligence**. [[Paper]](https://link.springer.com/article/10.1007/s10489-026-07141-0) [[Code]](https://github.com/RuiZhong961230/PaCDE-DLS)
 
