@@ -191,52 +191,12 @@ a:hover {
     outline: 2px solid var(--border-color);
 }
 
-/* Hero stats below photo */
-.hero-stats {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 0.3rem;
-    margin-top: 1.2rem;
-    max-width: 210px;
-}
-
-.hero-stat {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 0.3rem 0.2rem;
-    background: var(--bg-white);
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius);
-    min-width: 0;
-    overflow: hidden;
-}
-
-.hero-stat-num {
-    font-size: 0.95rem;
-    font-weight: 700;
-    color: var(--primary);
-    line-height: 1.2;
-}
-
-.hero-stat-label {
-    font-size: 0.45rem;
-    color: var(--text-muted);
-    text-transform: uppercase;
-    letter-spacing: 0.01em;
-    font-weight: 600;
-    text-align: center;
-    line-height: 1.15;
-    margin-top: 0.1rem;
-    white-space: nowrap;
-}
-
 /* Hero social icons */
 .hero-social {
     display: flex;
     justify-content: center;
     gap: 0.6rem;
-    margin-top: 0.8rem;
+    margin-top: 1.2rem;
 }
 
 .hero-social a {
@@ -397,11 +357,6 @@ a:hover {
     }
     .hero-links ul li {
         text-align: left;
-    }
-    .hero-stats {
-        max-width: 280px;
-        margin-left: auto;
-        margin-right: auto;
     }
     .hero-social {
         justify-content: center;
