@@ -16,4 +16,4 @@
 - B.S., Data Science and Big Data Technology, Zhejiang A&F University, China, 2021.09-2025.06.
 
 #### Research Interests
-Retail Pricing, Inventory Management, Large Language Models for Operations Research. Earlier work in Evolutionary Computation and Deep Learning.
+Retail Pricing, Inventory Management, Large Language Models for Operations Research.
