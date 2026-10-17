@@ -330,6 +330,83 @@ a:hover {
     background: var(--accent);
 }
 
+/* Education timeline */
+.hero-links .edu-list {
+    position: relative;
+    margin: 0.5rem 0 1rem;
+    padding-left: 1.25rem;
+    border-left: 2px solid var(--border-color);
+    line-height: 1.5;
+    text-align: left;
+}
+
+.hero-links .edu-item {
+    position: relative;
+    padding-bottom: 0.9rem;
+}
+
+.hero-links .edu-item:last-child {
+    padding-bottom: 0;
+}
+
+.hero-links .edu-item::before {
+    content: '';
+    position: absolute;
+    left: calc(-1.25rem - 6px);
+    top: 0.45rem;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--bg-white);
+    border: 2px solid var(--accent);
+}
+
+.hero-links .edu-current::before {
+    background: var(--accent);
+    box-shadow: 0 0 0 3px var(--primary-lighter);
+}
+
+.hero-links .edu-head,
+.hero-links .edu-sub {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    column-gap: 1rem;
+}
+
+.hero-links .edu-school {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.hero-links .edu-school:hover {
+    color: var(--accent);
+}
+
+.hero-links .edu-date {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+}
+
+.hero-links .edu-current .edu-date {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+.hero-links .edu-sub {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.hero-links .edu-loc {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+
 /* Mobile hero */
 @media screen and (max-width: 768px) {
     .hero-section {
