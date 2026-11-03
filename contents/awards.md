@@ -1,4 +1,5 @@
 ### Scholarships
+- **NUS Research Scholarship** (Ph.D. Full Scholarship), National University of Singapore, 2027.
 - **National Scholarship** (Top 0.2% in China), 2024.
 - **Zhejiang A&F University Student Scholarship**, 2024.
 
