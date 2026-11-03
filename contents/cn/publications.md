@@ -10,6 +10,10 @@
 
   - **Lian, J.J.**, Chen, H., Qin, H., Teo, C.-P.\# (2026). Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling. **arXiv**. [[论文]](https://arxiv.org/abs/2608.15565) [[代码]](https://github.com/junbolian/AdmitOR)
 
+  - **Lian, J.J.**, Chen, K., Zhou, C., Chen, H. (2026). Reliability of LLM-generated optimization models, algorithms, and decisions: A systematic review. **工作论文**. [[论文]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7513738)
+
+  - **Lian, J.J.**, Chen, K., Qin, H., Chen, H., Teo, C.-P. (2026). Do Language Models Know Which Constraints Belong Together? **工作论文**. [[代码]](https://github.com/junbolian/JointDW)
+
   - **Lian, J.J.**, Liu, X., Chen, Z., Zhang, C., Xu, Z.S. (2026). The Value of Traffic-Signal Phase Information for Route Choice: How Much, How Far Ahead, and How Accurate. **工作论文**. [[论文]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7368578) [[代码]](https://github.com/junbolian/signal-aware-routing)
 
   - **Lian, J.J.\#** (2026). Reliable Execution and Reusable Certification of Dual-Sourcing Inventory Policies. **工作论文**. [[论文]](https://dx.doi.org/10.2139/ssrn.7446638)
