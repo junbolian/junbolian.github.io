@@ -1,16 +1,10 @@
-### 专利 &ensp; [![Google Patents](https://img.shields.io/badge/Google%20Patents-查看全部-4285F4?logo=google&logoColor=white)](https://patents.google.com/?inventor=%E8%BF%9E%E4%BF%8A%E5%8D%9A)
+### 授权专利 &ensp; [![Google Patents](https://img.shields.io/badge/Google%20Patents-查看全部-4285F4?logo=google&logoColor=white)](https://patents.google.com/?inventor=%E8%BF%9E%E4%BF%8A%E5%8D%9A)
 
-| 专利名称 | 专利号 |
-|----------|--------|
-| **一种白梨表面损伤检测系统及方法** | CN202211264437.7 |
-| **一种白梨损伤检测系统及方法** | CN202211264436.2 |
-| **一种当归片的检测装置及方法** | CN202310446979.4 |
-| **一种当归片的检测方法** | CN202310435925.8 |
-| **一种基于传感器阵列的实验室安全监测方法** | CN202210861807.9 |
-| **一种花椒产地鉴别的设备及方法** | CN202311647786.1 |
-| **一种花椒产地鉴别的方法** | CN202311647788.0 |
-| **一种白术霉变检测方法** | CN202410068257.4 |
-| **一种白术霉变检测装置及方法** | CN202410071756.9 |
+| 专利名称 | 专利号 | 授权年份 |
+|----------|--------|----------|
+| **一种当归片检测装置及方法** | [CN116465862B](https://patents.google.com/patent/CN116465862B/zh) | 2025 |
+| **一种地下甲烷气体输送管道泄漏定位系统及方法** | [CN114857508B](https://patents.google.com/patent/CN114857508B/zh) | 2024 |
+| **一种用于地下甲烷输送管道的气体泄漏定位方法** | [CN114967449B](https://patents.google.com/patent/CN114967449B/zh) | 2024 |
 
 -----
 
