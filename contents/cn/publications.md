@@ -1,19 +1,11 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-查看全部-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=swfyyjkAAAAJ)
 
-#### 运筹学与运营管理
-
-  - **Lian, J.J.**, Qin, H., Teo, C.-P. (2026). Partial Price Transparency and Demand Learning in Retail Price Competition. **工作论文**. [[论文]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7620880) [[海报]](static/assets/Poster/price_transparency_poster_zh.pdf)
-    - *学术报告：* Association for Supply Chain Innovation (ASCI) Conference 2027，中国广州
-
-  - **Lian, J.J.**, Sun, Y., Chen, H., Zhang, C., Qin, H., Teo, C.-P. (2026). ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization. **NeurIPS 2026**. [[论文]](https://neurips.cc/virtual/2026/loc/sydney/poster/153462) [[代码]](https://github.com/junbolian/ReLoop) [[海报]](static/assets/Poster/ReLoop.png)
-    - *学术报告：* Production and Operations Management Society (POMS) International Conference in China 2026，中国西安
-
-  - **Lian, J.J.**, Chen, H., Qin, H., Teo, C.-P. (2026). Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling. **arXiv**. [[论文]](https://arxiv.org/abs/2608.15565) [[代码]](https://github.com/junbolian/AdmitOR)
-
-  - **Lian, J.J.**, Chen, K., Qin, H., Chen, H., Teo, C.-P. (2026). Do Language Models Know Which Constraints Belong Together? **工作论文**. [[代码]](https://github.com/junbolian/JointDW)
-
-  - **Lian, J.J.**, Chen, K., Zhou, C., Chen, H. (2026). Reliability of LLM-generated optimization models, algorithms, and decisions: A systematic review. **工作论文**. [[论文]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7513738)
-
-  - **Lian, J.J.**, Liu, X., Chen, Z., Zhang, C. (2026). The Value of Traffic-Signal Phase Information for Route Choice: How Much, How Far Ahead, and How Accurate. **工作论文**. [[论文]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7368578) [[代码]](https://github.com/junbolian/signal-aware-routing)
-
-  - **Lian, J.J.** (2026). Reliable Execution and Reusable Certification of Dual-Sourcing Inventory Policies. **工作论文**. [[论文]](https://dx.doi.org/10.2139/ssrn.7446638)
+<div class="pub-list">
+<div class="pub"><div class="pub-title">Partial Price Transparency and Demand Learning in Retail Price Competition</div><div class="pub-authors"><b>Lian, J.J.</b>, Qin, H., Teo, C.-P.</div><div class="pub-meta"><span class="pub-venue">工作论文</span><span class="pub-year">2026</span><span class="pub-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7620880">论文</a><a href="static/assets/Poster/price_transparency_poster_zh.pdf">海报</a></span></div><div class="pub-talk"><i class="bi bi-mic"></i> 学术报告： Association for Supply Chain Innovation (ASCI) Conference 2027，中国广州</div></div>
+<div class="pub"><div class="pub-title">ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization</div><div class="pub-authors"><b>Lian, J.J.</b>, Sun, Y., Chen, H., Zhang, C., Qin, H., Teo, C.-P.</div><div class="pub-meta"><span class="pub-venue is-pub">NeurIPS 2026</span><span class="pub-links"><a href="https://neurips.cc/virtual/2026/loc/sydney/poster/153462">论文</a><a href="https://github.com/junbolian/ReLoop">代码</a><a href="static/assets/Poster/ReLoop.png">海报</a></span></div><div class="pub-talk"><i class="bi bi-mic"></i> 学术报告： Production and Operations Management Society (POMS) International Conference in China 2026，中国西安</div></div>
+<div class="pub"><div class="pub-title">Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling</div><div class="pub-authors"><b>Lian, J.J.</b>, Chen, H., Qin, H., Teo, C.-P.</div><div class="pub-meta"><span class="pub-venue">arXiv</span><span class="pub-year">2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2608.15565">论文</a><a href="https://github.com/junbolian/AdmitOR">代码</a></span></div></div>
+<div class="pub"><div class="pub-title">Do Language Models Know Which Constraints Belong Together?</div><div class="pub-authors"><b>Lian, J.J.</b>, Chen, K., Qin, H., Chen, H., Teo, C.-P.</div><div class="pub-meta"><span class="pub-venue">工作论文</span><span class="pub-year">2026</span><span class="pub-links"><a href="https://github.com/junbolian/JointDW">代码</a></span></div></div>
+<div class="pub"><div class="pub-title">Reliability of LLM-generated optimization models, algorithms, and decisions: A systematic review</div><div class="pub-authors"><b>Lian, J.J.</b>, Chen, K., Zhou, C., Chen, H.</div><div class="pub-meta"><span class="pub-venue">工作论文</span><span class="pub-year">2026</span><span class="pub-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7513738">论文</a></span></div></div>
+<div class="pub"><div class="pub-title">The Value of Traffic-Signal Phase Information for Route Choice: How Much, How Far Ahead, and How Accurate</div><div class="pub-authors"><b>Lian, J.J.</b>, Liu, X., Chen, Z., Zhang, C.</div><div class="pub-meta"><span class="pub-venue">工作论文</span><span class="pub-year">2026</span><span class="pub-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7368578">论文</a><a href="https://github.com/junbolian/signal-aware-routing">代码</a></span></div></div>
+<div class="pub"><div class="pub-title">Reliable Execution and Reusable Certification of Dual-Sourcing Inventory Policies</div><div class="pub-authors"><b>Lian, J.J.</b></div><div class="pub-meta"><span class="pub-venue">工作论文</span><span class="pub-year">2026</span><span class="pub-links"><a href="https://dx.doi.org/10.2139/ssrn.7446638">论文</a></span></div></div>
+</div>

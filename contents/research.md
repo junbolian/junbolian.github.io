@@ -1,2 +1,3 @@
-#### Operations Research & Operations Management
+<div class="focus-tags"><span>Retail Pricing</span><span>Inventory Management</span><span>LLMs for Operations Research</span></div>
+
 My research focuses on data-driven retail pricing, inventory management, and large language models for building reliable optimization models. Much of the pricing work is developed with, and tested at, Wenzhou Buyi Pharmacy Chain, where I serve as Chief Analytics Officer; a store-level repricing field experiment there is planned for 2027. Earlier work in deep learning and evolutionary computation is listed on [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=swfyyjkAAAAJ).
