@@ -14,6 +14,6 @@
 
   - **Lian, J.J.**, Chen, K., Qin, H., Chen, H., Teo, C.-P. (2026). Do Language Models Know Which Constraints Belong Together? **Working Paper**. [[Code]](https://github.com/junbolian/JointDW)
 
-  - **Lian, J.J.**, Liu, X., Chen, Z., Zhang, C., Xu, Z.S. (2026). The Value of Traffic-Signal Phase Information for Route Choice: How Much, How Far Ahead, and How Accurate. **Working Paper**. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7368578) [[Code]](https://github.com/junbolian/signal-aware-routing)
+  - **Lian, J.J.**, Liu, X., Chen, Z., Zhang, C. (2026). The Value of Traffic-Signal Phase Information for Route Choice: How Much, How Far Ahead, and How Accurate. **Working Paper**. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7368578) [[Code]](https://github.com/junbolian/signal-aware-routing)
 
   - **Lian, J.J.** (2026). Reliable Execution and Reusable Certification of Dual-Sourcing Inventory Policies. **Working Paper**. [[Paper]](https://dx.doi.org/10.2139/ssrn.7446638)
