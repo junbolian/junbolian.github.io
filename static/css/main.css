@@ -543,6 +543,7 @@ a:hover {
 #publications-md a[href*="sciencedirect"],
 #publications-md a[href*="amazon"],
 #publications-md a[href*="ssrn"],
+#publications-md a[href*="neurips.cc"],
 #publications-md a[href*="tandfonline"],
 #publications-md a[href*="scholar.google"] {
     display: inline-block;
@@ -570,6 +571,7 @@ a:hover {
 #publications-md .main-body a[href*="sciencedirect"]:hover,
 #publications-md .main-body a[href*="amazon"]:hover,
 #publications-md .main-body a[href*="ssrn"]:hover,
+#publications-md .main-body a[href*="neurips.cc"]:hover,
 #publications-md .main-body a[href*="tandfonline"]:hover,
 #publications-md .main-body a[href*="scholar.google"]:hover {
     background: var(--accent);

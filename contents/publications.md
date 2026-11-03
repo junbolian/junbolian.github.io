@@ -1,6 +1,6 @@
 *(\* denotes equal contribution, \# denotes Corresponding Author)* &ensp; [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20All-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=swfyyjkAAAAJ)
 
-#### Operations Research & Operation Management
+#### Operations Research & Operations Management
 
   - **Lian, J.J.**, Qin, H., Teo, C.-P.\# (2026). Partial Price Transparency and Demand Learning in Retail Price Competition. **Working Paper**. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7620880)
 
@@ -12,65 +12,3 @@
   - **Lian, J.J.**, Liu, X., Chen, Z., Zhang, C., Xu, Z.S. (2026). The Value of Traffic-Signal Phase Information for Route Choice: How Much, How Far Ahead, and How Accurate. **Working Paper**. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7368578) [[Code]](https://github.com/junbolian/signal-aware-routing)
 
   - **Lian, J.J.\#** (2026). Reliable Execution and Reusable Certification of Dual-Sourcing Inventory Policies. **Working Paper**. [[Paper]](https://dx.doi.org/10.2139/ssrn.7446638)
-
------
-
-#### Deep Learning
-
-  - **Lian, J.J.**, Xiong, F., Sun, Y., Chen, H., Ouyang, K., Ke, Z., Yu, M., Fu, S., Chen, H. (2026). TwistNet-2D: Learning Second-Order Channel Interactions via Spiral Twisting for Texture Recognition. **Pattern Recognition** (Under Review). [[Paper]](https://arxiv.org/abs/2602.07262) [[Code]](https://github.com/junbolian/TwistNet-2D)
-
-  - **Lian, J.J.**, Chen, H., Ouyang, K., Zhang, Y., Zhong, R., & Chen, H.\# (2026). Twisted convolutional networks (TCNs): Enhancing feature interactions for non-spatial data classification. **Neural Networks**. [[Paper]](https://doi.org/10.1016/j.neunet.2025.108451) [[Code]](https://github.com/junbolian/Twisted-Convolutional-Networks)
-
-  - Ma, L., Zhong, Q., Shi, S., Wei, H., Yang, S., **Lian, J.J.**, Hai, Q., et al. (2026). Cooperative Multi-View Graph Learning via High-Rank Tensor Specificity. **IJCAI-ECAI 2026**. [[Paper]](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/1182.pdf)
-
-  - **Lian, J.J.\#** (2025). Generative Foundation Models: A Comprehensive Beginner's Handbook. **Amazon**. [[Book (Preprint)]](https://dx.doi.org/10.2139/ssrn.5259947)[[Book (Amazon)]](https://www.amazon.com/dp/B0F9FQ4JKH)
-
-  - Luo, S., Zhang, Y., Zhang, Z., Guo, B., **Lian, J.J.**, Jiang, H., Zou, S., & Wang, W. (2025). EPDD-YOLO: An Efficient Benchmark for Pavement Damage Detection Based on Mamba-YOLO. **Measurement**. [[Paper]](https://doi.org/10.1016/j.measurement.2025.117638)
-
------
-
-#### Evolutionary Computation
-
-  - **Lian, J.J.**, Yu, M., Ouyang, K., Fu, S., Zhong, R., Zhang, Y., & Chen, H.\# (2026). IKUN: A mean-field game theoretic KD-tree density guided mechanism for swarm optimization. **Information Sciences**. [[Paper]](https://doi.org/10.1016/j.ins.2026.123347) [[Code]](https://github.com/junbolian/IKUN-mechanism)
-
-  - **Lian, J.J.**, Ouyang, K., Zhang, Y., Zhong, R., Chen, H., Zheng, Z., Sun, Y., Chen, H.\# (2026). Competitive Cluster Elimination (CCE) for large-scale swarm optimization. **Applied Soft Computing**. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1568494626008112) [[Code]](https://github.com/junbolian/Competitive-Cluster-Elimination)
-
-  - Xiao, W., **Lian, J.J.**, Ouyang, K.\#, Gu, S., Liu, Y., Wei, D., ... & Xu, C. (2026). Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection. **Biomedical Signal Processing and Control Journal**. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1746809425016957) [[Code]](https://github.com/oykc1234/NDO)
-
-  - Ouyang, K., Hou, T., **Lian, J.J.**, Fu, S., Ke, Z., Wei, D., Qiu, M., & Ouyang, J.\# (2026). Stochastic Gradient-guided Adaptive Differential Evolution: Algorithm and Its Application in the Diagnosis of COVID-19, Influenza, and Bacterial Pneumonia. **Artificial Intelligence in Medicine** (Under Review).
-
-  - Zhong, R., Wang, Z., Xiao, Y., Zhang, Y., **Lian, J.J.**, Yu, J., Cai, Z., Pan, Z., Chen, H., & Yu, S.\# (2026). Parameter adaptive competitive differential evolution with local search. **Applied Intelligence**. [[Paper]](https://link.springer.com/article/10.1007/s10489-026-07141-0) [[Code]](https://github.com/RuiZhong961230/PaCDE-DLS)
-
-  - Zhong, R., Wang, Z., Yu, J., Zhang, Y., **Lian, J.J.**, Cai, Z., Pan, Z., Chen, H., & Yu, S.\# (2026). Multi-search pattern competitive swarm optimizer: performance investigation and application in coffee leaf disease diagnosis. **International Journal of Machine Learning and Cybernetics**. [[Paper]](https://doi.org/10.1007/s13042-026-03184-4)
-
-  - Yu, M., Zhang, J., **Lian, J.J.**, Feng, Y., Kong, D., Lu, H., Wei, X., & Xu, J.\# (2026). Pattern-aware multiobjective optimization with multimodal representations for UAV reconnaissance and task offloading. **Pattern Recognition**. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326015530)
-
-  - **Lian, J.J.**, Yu, M., Ouyang, K., Fu, S., Zhong, R., Zhang, Y., Zhang, J., Chen, H. (2025). OPAL: Operator-Programmed Algorithms for Landscape-Aware Black-Box Optimization. **arXiv**. [[Paper]](https://arxiv.org/abs/2512.12809) [[Code]](https://github.com/junbolian/OPAL)
-
-  - Tang, X.\*, **Lian, J.J.\#\***, Ma, L., Wu, X., Zhong, R., Zhang, Y., Chen, H.\# (2025). IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization. **Journal of Big Data**. [[Paper]](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-025-01260-0) [[Code]](https://github.com/junbolian/IECO)
-
-  - **Lian, J.J.**, Ouyang, K., Zhong, R., Zhang, Y., Luo, S., Ma, L., Wu, X., Chen, H.\# (2025). Trend-Aware Mechanism for Metaheuristic Algorithms. **Applied Soft Computing**. [[Paper]](https://doi.org/10.1016/j.asoc.2025.113505) [[Code]](https://github.com/junbolian/Trend-Aware-Mechanism)
-
-  - Zhong, R., Wang, Z., Zhang, Y., **Lian, J.J.**, Yu, J., & Chen, H.\# (2025). Integrating Competitive Framework into Differential Evolution: Comprehensive performance analysis and application in brain tumor detection. **Applied Soft Computing**. [[Paper]](https://doi.org/10.1016/j.asoc.2025.112995)
-
-  - Zhao, J., Zhang, Y., Zhong, R., Chen, H., **Lian, J.J.**, & Gao, Z.-M.\# (2025). A paradigm of evolutionary manytasking optimization for solving nonlinear equation systems: A two-stage framework with adaptive knowledge transfer, sharing and hybrid resource sampling. **Expert Systems with Applications**. [[Paper]](https://doi.org/10.1016/j.eswa.2025.129459)
-
-  - Zhang, Y., Gong, W., Zhong, R., Chen, H., Yu, J., **Lian, J.J.**, Zhao, J., & Gao, Z.-M.\# (2025). Advanced design for nonlinear photovoltaic system problems: A co-evolutionary framework based on a decomposition approach. **Swarm and Evolutionary Computation**. [[Paper]](https://doi.org/10.1016/j.swevo.2025.102179)
-
-  - **Lian, J.J.**, Zhu, T., Ma, L., Wu, X., Heidari, A.A., Chen, Y., Chen, H.\#, Hui, G.\# (2024). The Educational Competition Optimizer. **International Journal of Systems Science**. [[Paper]](https://doi.org/10.1080/00207721.2024.2367079) [[Code]](https://github.com/junbolian/ECO)
-
-  - **Lian, J.J.**, Hui, G., Ma, L., Zhu, T., Wu, X., Heidari, A.A., Chen, Y., Chen, H.\# (2024). Parrot Optimizer: Algorithm and Applications to Medical Problems. **Computers in Biology and Medicine**. [[Paper]](https://doi.org/10.1016/j.compbiomed.2024.108064) [[Code]](https://github.com/junbolian/PO)
-
-  - **Lian, J.J.**, Hui, G.\# (2024). Human Evolutionary Optimization Algorithm. **Expert Systems with Applications**. [[Paper]](https://doi.org/10.1016/j.eswa.2023.122638) [[Code]](https://github.com/junbolian/HEOA)
-
------
-
-#### AI in Food & Agriculture Engineering
-
-  - **Lian, J.J.\#**, Wu, P., Han, W., Xie, Y., Zheng, Y., Xu, Y., ... & Hui, G. (2025). Discrimination of Chinese prickly ash origin place using electronic nose system and feature extraction with support vector boosting machine. **Cogent Food & Agriculture**. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/23311932.2025.2464939) [[Code]](https://github.com/junbolian/SVBM)
-
-  - Zhu, T., Wu, X., Ma, L., Zeng, Y., **Lian, J.J.**, Liu, J., Chen, X., Zhong, L., Chang, J., Hui, G.\# (2024). Rapid mold detection in chinese herbal medicine using enhanced deep learning technology. **Journal of Medicinal Food**. [[Paper]](https://doi.org/10.1089/jmf.2024.k.0004)
-
-  - **Lian, J.J.**, Zhang, J., Liu, Q., Zhu, R., Ning, J., Xiong, S., Hui, G.\#, Gao, Y., Lou, X. (2023). Visualized pattern recognition optimization for apple mechanical damage by laser relaxation spectroscopy. **International Journal of Food Properties**. [[Paper]](https://doi.org/10.1080/10942912.2023.2221404)
-
-  - Zhou, W., **Lian, J.J.**, Zhang, J., Mei, Z., Gao, Y., Hui, G.\# (2023). Tomato storage quality predicting method based on portable electronic nose system combined with WOA-SVM model. **Journal of Food Measurement and Characterization**. [[Paper]](https://doi.org/10.1007/s11694-023-01865-0)
