@@ -626,6 +626,122 @@ a:hover {
 }
 
 /* ========================================
+   Book card
+   ======================================== */
+#publications-md .book-section-title {
+    margin: 2.2rem 0 0.9rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+
+#publications-md .book-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.6rem;
+    padding: 1.4rem;
+    background: linear-gradient(135deg, var(--primary-lighter) 0%, var(--bg-white) 70%);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+}
+
+#publications-md .book-cover-link {
+    flex: 0 0 150px;
+}
+
+#publications-md .book-cover {
+    display: block;
+    width: 150px;
+    border-radius: 6px;
+    box-shadow: var(--shadow-md);
+    transition: var(--transition);
+}
+
+#publications-md .book-cover-link:hover .book-cover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-lg);
+}
+
+#publications-md .book-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--text-primary);
+}
+
+#publications-md .book-sub {
+    margin-top: 0.2rem;
+    font-size: 0.9rem;
+    font-style: italic;
+    line-height: 1.5;
+    color: var(--text-secondary);
+}
+
+#publications-md .book-meta {
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+#publications-md .book-desc {
+    margin-top: 0.6rem;
+    font-size: 0.92rem;
+    line-height: 1.7;
+    color: var(--text-secondary);
+}
+
+#publications-md .book-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin-top: 1rem;
+}
+
+#publications-md .book-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.45rem 1.1rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #ffffff;
+    background: var(--accent);
+    border: 2px solid var(--accent);
+    border-radius: var(--radius);
+    transition: var(--transition);
+}
+
+#publications-md .book-btn:hover {
+    color: #ffffff;
+    background: var(--accent-hover);
+    border-color: var(--accent-hover);
+    transform: translateY(-1px);
+}
+
+#publications-md .book-btn-outline {
+    color: var(--accent);
+    background: var(--bg-white);
+}
+
+#publications-md .book-btn-outline:hover {
+    color: #ffffff;
+    background: var(--accent);
+    border-color: var(--accent);
+}
+
+@media screen and (max-width: 576px) {
+    #publications-md .book-card {
+        flex-direction: column;
+        align-items: center;
+    }
+    #publications-md .book-cover-link {
+        flex-basis: auto;
+    }
+}
+
+/* ========================================
    Research section
    ======================================== */
 #research-md .focus-tags {
