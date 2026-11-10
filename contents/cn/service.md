@@ -30,3 +30,7 @@
 - [Pattern Analysis and Applications](https://link.springer.com/journal/10044)
 - [CMC-Computers, Materials & Continua](https://www.techscience.com/journal/cmc)
 - [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)
+
+### 科普与培训
+
+<div class="book-card"><a class="book-cover-link" href="static/assets/book/AI-Introduction-Junbo-Lian.pdf" target="_blank" rel="noopener"><img class="book-cover" src="static/assets/book/cover.jpg" alt="人工智能入门 cover" loading="lazy"></a><div class="book-body"><div class="book-title">人工智能入门：原理、工具与工作中的使用</div><div class="book-sub">An Introduction to Artificial Intelligence: Principles, Tools and Everyday Practice</div><div class="book-meta">连俊博 著 &middot; 2026 年 11 月 &middot; 中文 &middot; PDF，1.2 MB</div><div class="book-desc">写给没有技术背景的读者，包括门店店员、店长和企业管理者。书中讲清大语言模型的工作原理，怎样选择工具、写好提示词，以及智能体、Skill 和 Harness 这些新概念在工作中意味着什么，并给出零售和药店门店的使用实例。</div><div class="book-actions"><a class="book-btn" href="static/assets/book/AI-Introduction-Junbo-Lian.pdf" target="_blank" rel="noopener"><i class="bi bi-book"></i> 在线阅读</a><a class="book-btn book-btn-outline" href="static/assets/book/AI-Introduction-Junbo-Lian.pdf" download="连俊博-人工智能入门.pdf"><i class="bi bi-download"></i> 下载 PDF</a></div></div></div>
