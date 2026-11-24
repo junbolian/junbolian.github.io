@@ -1,14 +1,14 @@
 [![GitHub](https://img.shields.io/badge/junbolian-github-blue?logo=github)](https://github.com/junbolian)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junbo-lian/)
-[![Email](https://img.shields.io/badge/Email-jacoblian@u.northwestern.edu-blue)](mailto:jacoblian@u.northwestern.edu)
+[![Email](https://img.shields.io/badge/Email-JLian@u.nus.edu-blue)](mailto:JLian@u.nus.edu)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7602--0022-brightgreen?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7602-0022)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.co.uk/citations?user=swfyyjkAAAAJ&hl)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=swfyyjkAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junbo-Lian-2)
 
-**Junbo Lian** is a Ph.D. student at the [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/), [National University of Singapore (NUS)](https://nus.edu.sg/), advised by [Prof. Chung-Piaw Teo](https://iora.nus.edu.sg/people-p/teo-chung-piaw/) and [Prof. Hanzhang Qin](https://hanzhangqin.com/). He holds an M.S. in [Machine Learning and Data Science (MLDS)](https://www.mccormick.northwestern.edu/machine-learning-data-science/) from [Northwestern University](https://www.northwestern.edu/). His research focuses on retail pricing, assortment optimization, and large language models for operations research. He also serves as Chief Analytics Officer at Wenzhou Buyi Pharmacy Chain, a national top-100 pharmacy retailer, where he built the company's pricing system and a long-tail assortment agent now in daily use, and is preparing a store-level field experiment to test his pricing methods. His earlier work in evolutionary computation and deep learning includes two *ESI Hot Papers* and four *ESI Highly Cited Papers*. He received China's *National Scholarship* in 2024.
+**Junbo Lian** is a Ph.D. student at the [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/), [National University of Singapore (NUS)](https://nus.edu.sg/), advised by [Prof. Chung-Piaw Teo](https://iora.nus.edu.sg/people-p/teo-chung-piaw/) and [Prof. Hanzhang Qin](https://hanzhangqin.com/). He holds an M.S. in [Machine Learning and Data Science (MLDS)](https://www.mccormick.northwestern.edu/machine-learning-data-science/) from [Northwestern University](https://www.northwestern.edu/). His research focuses on retail pricing, assortment optimization, and large language models for operations research. He is the founder and CEO of [Thrice AI](https://thrice.cn/en), which provides AI implementation and training services for traditional businesses, and Chief Analytics Officer at Wenzhou Buyi Pharmacy Chain, a national top-100 pharmacy retailer, where he built the pricing system and a long-tail assortment agent now in daily use. His earlier work in evolutionary computation and deep learning includes two *ESI Hot Papers* and four *ESI Highly Cited Papers*. He received China's *National Scholarship* in 2024.
 
 #### Email
-[junbolian@qq.com](mailto:junbolian@qq.com) &ensp;|&ensp; [jacoblian@u.northwestern.edu](mailto:jacoblian@u.northwestern.edu)
+[JLian@u.nus.edu](mailto:JLian@u.nus.edu) &ensp;|&ensp; [junbolian@qq.com](mailto:junbolian@qq.com)
 
 #### Education
 <div class="edu-list">

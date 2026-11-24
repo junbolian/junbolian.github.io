@@ -1,6 +1,6 @@
 
 const config_file = 'config.yml'
-const section_names = ['home', 'research', 'publications', 'projects', 'awards', 'news', 'service', 'beyond']
+const section_names = ['home', 'research', 'publications', 'industry', 'projects', 'awards', 'news', 'service', 'beyond']
 
 // Gallery image data
 const galleryData = {
@@ -121,15 +121,23 @@ function loadContent(lang) {
                 document.getElementById(name + '-md').innerHTML = html;
             })
             .then(() => {
-                MathJax.typeset();
+                if (window.MathJax && typeof MathJax.typeset === 'function') MathJax.typeset();
             })
             .catch(error => console.log(error));
     });
 
-    // Update gallery tab i18n
+    // Update static i18n text
     document.querySelectorAll('[data-i18n-en]').forEach(el => {
         el.textContent = lang === 'cn' ? el.dataset.i18nCn : el.dataset.i18nEn;
     });
+
+    // Update links that differ by language (e.g. thrice.cn vs thrice.cn/en)
+    document.querySelectorAll('[data-href-en]').forEach(el => {
+        el.setAttribute('href', lang === 'cn' ? el.dataset.hrefCn : el.dataset.hrefEn);
+    });
+
+    // Tell browsers and screen readers which language is shown
+    document.documentElement.lang = lang === 'cn' ? 'zh-CN' : 'en';
 }
 
 function setActiveLang(lang) {

@@ -1,4 +1,4 @@
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20All-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=swfyyjkAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20All-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=swfyyjkAAAAJ&hl=en)
 
 <div class="pub-list">
 <div class="pub"><div class="pub-title">Estimation or Experimentation? Demand Learning Under Partial Price Transparency</div><div class="pub-authors"><b>Lian, J.J.</b>, Qin, H., Teo, C.-P.</div><div class="pub-meta"><span class="pub-venue">Working Paper</span><span class="pub-year">2026</span><span class="pub-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7620880">Paper</a><a href="static/assets/Poster/demand_learning_poster_en.pdf">Poster</a></span></div><div class="pub-talk"><i class="bi bi-mic"></i> Talk: Association for Supply Chain Innovation (ASCI) Conference 2027, Guangzhou, China</div></div>
