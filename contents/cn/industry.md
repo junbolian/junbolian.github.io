@@ -10,10 +10,12 @@
 </div>
 </div>
 <div class="venture">
+<a class="venture-logo" href="https://www.buyi001.com/" target="_blank" rel="noopener"><img src="static/assets/img/buyi-logo.png" alt="温州市布衣大药房标志"></a>
 <div class="venture-body">
 <div class="venture-head"><span class="venture-name">温州市布衣大药房</span><span class="venture-date">2025.01 &ndash; 至今</span></div>
 <div class="venture-role">首席分析官 &middot; 全国百强药品零售企业，约 160 家直营门店</div>
 <div class="venture-desc">我搭建了公司的定价体系和长尾品类优化智能体。智能体把每个 SKU 归入五级品类体系，细到可直接互相替代的竞争组；从销量、毛利、价格和趋势等维度给淘汰候选打分；并对慢病用药、品类覆盖和线上主力品设置保护规则。员工对每条建议给出采纳或否决及理由，智能体把这些理由转化为下一轮的修正规则。该系统已运行超过六个月，建议采纳率超过 95%，把每季度的品类淘汰工作从 100 多小时压缩到 1 小时以内。门店级重定价现场实验计划于 2027 年 3 月开始。</div>
+<div class="venture-actions"><a class="venture-btn" href="https://www.buyi001.com/" target="_blank" rel="noopener"><i class="bi bi-box-arrow-up-right"></i> 访问 buyi001.com</a></div>
 </div>
 </div>
 </div>

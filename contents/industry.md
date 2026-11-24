@@ -10,10 +10,12 @@
 </div>
 </div>
 <div class="venture">
+<a class="venture-logo" href="https://www.buyi001.com/" target="_blank" rel="noopener"><img src="static/assets/img/buyi-logo.png" alt="Wenzhou Buyi Pharmacy Chain logo"></a>
 <div class="venture-body">
 <div class="venture-head"><span class="venture-name">Wenzhou Buyi Pharmacy Chain</span><span class="venture-date">2025.01 &ndash; Present</span></div>
 <div class="venture-role">Chief Analytics Officer &middot; a national top-100 pharmacy retailer with about 160 directly operated stores</div>
 <div class="venture-desc">I built the company's pricing system and an agent for long-tail assortment decisions. The agent places every SKU in a five-level category system, down to groups of directly substitutable products, scores delisting candidates on sales, margin, price, and trend, and applies protection rules for chronic-disease drugs, assortment coverage, and online best-sellers. Staff accept or reject each recommendation with a reason, and the agent turns these reasons into revised rules for the next round. It has run in production for over six months, with more than 95% of its recommendations accepted, and has cut the quarterly delisting review from over 100 hours to under one hour. A store-level repricing field experiment is scheduled to begin in March 2027.</div>
+<div class="venture-actions"><a class="venture-btn" href="https://www.buyi001.com/" target="_blank" rel="noopener"><i class="bi bi-box-arrow-up-right"></i> Visit buyi001.com</a></div>
 </div>
 </div>
 </div>
