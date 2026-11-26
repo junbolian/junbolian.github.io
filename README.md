@@ -24,7 +24,7 @@ A clean, responsive single-page academic homepage. No build tools required — j
 2. Rename to `<your-username>.github.io`
 3. Edit `contents/config.yml` with your name and site title
 4. Replace content in `contents/*.md` with your own
-5. Add your photo as `static/assets/img/photo.png`
+5. Add your photo as `static/assets/img/photo.jpg`
 6. Push — your site will be live at `https://<your-username>.github.io`
 
 ## Project Structure
